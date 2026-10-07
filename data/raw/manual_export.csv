@@ -1,0 +1,310 @@
+source_system,source_transaction_id,invoice_date,supplier_name,description,category,quantity,unit,unit_price,currency,region
+MANUAL,MANUAL-00001,25/08/2025,NorthstarOfficeProducts,Black toner cartridge,,3,ea,65.52,EUR,Netherlands
+MANUAL,MANUAL-00002,"Sep 19, 2025",Redwood Telecom Services,Data analytics consultant (urgent),consulting,3,day,1078.19,EUR,Netherlands
+MANUAL,MANUAL-00003,"Dec 23, 2025",Pinnacle Equip.,Stretch wrap roll clear - dept order,,1,roll,13.6,GBP,United States
+MANUAL,MANUAL-00004,05/05/2025,Harbor Scientific Supply,Data analytics consultant - dept order,,3,day,1031.13,EUR,France
+MANUAL,MANUAL-00005,14/04/2025,CEDAR CG,HVAC preventive maintenance visit (urgent),facilities services,1,visit,281.23,GBP,UK
+MANUAL,MANUAL-00006,19/11/2025,Northstar Office Products,PDF editor annual license (urgent),Software & Cloud - Software Licenses,3,licence,65.83,GBP,UK
+MANUAL,MANUAL-00007,16/05/2025,Harbour Scientific,electric van lease monthly,vehicle leasing,1,mo,703.21,USD,UK
+MANUAL,MANUAL-00008,14/02/2025,VERTEXTECHNOLOGY,electricity supply usage,Facilities & Energy - Energy,1,MWh,112.25,EUR,UK
+MANUAL,MANUAL-00009,09/10/2025,Cedar Consult.,business broadband connection,Telecom > Telecom Services,1,mo,62.37,GBP,France
+MANUAL,MANUAL-00010,18/10/2025,BLUEBIRD,Process improvement consultant - dept order,,3,day,825.35,GBP,Netherlands
+MANUAL,MANUAL-00011,04/06/2025,Pinnacle Equip.,black toner cartridge,office supplies,2,ea,59.65,EUR,Germany
+MANUAL,MANUAL-00012,"Nov 03, 2025",Siem. AG,protective safety glasses,personal protective equipment,1,ea,10.69,USD,United States
+MANUAL,MANUAL-00013,19/06/2025,Acme Supply Co,office cleaning monthly service,Facilities & Energy > Facilities Services,5,mo,1181.35,USD,United States
+MANUAL,MANUAL-00014,16/12/2025,Orchard Services,Mobile voice and data plan,Telecom > Telecom Services,1,mo,37.96,EUR,Netherlands
+MANUAL,MANUAL-00015,25/12/2025,SIEMENS,Compact vehicle lease monthly - dept order,vehicle leasing,10,mo,335.84,GBP,Netherlands
+MANUAL,MANUAL-00016,27/07/2025,GlobalFrt.Ptnrs,Black toner cartridge (urgent),office supplies,5,ea,51.17,GBP,Germany
+MANUAL,MANUAL-00017,25/01/2025,BluebirdFacilitiesGroup,monitor 27 inch qhd,,10,ea,179.62,GBP,UK
+MANUAL,MANUAL-00018,12/01/2025,Acme Supply Co,Stretch wrap roll clear - dept order,Logistics - Packaging,5,roll,17.69,USD,UK
+MANUAL,MANUAL-00019,18/11/2025,Northstar Office Products,Wireless keyboard and mouse set (urgent),IT Hardware > Peripherals,10,ea,44.34,USD,United States
+MANUAL,MANUAL-00020,09/10/2025,SIEMENS,Corrugated shipping box medium (urgent),Logistics > Packaging,2,BOXES,0.95,GBP,United States
+MANUAL,MANUAL-00021,26/02/2025,Vertex Technology Ltd,Cloud compute usage (urgent),Software & Cloud > Cloud Services,3,hour,4.23,USD,Germany
+MANUAL,MANUAL-00022,"Apr 16, 2025",HSS,A4 copy paper case 5 reams - dept order,Office & MRO > Office Supplies,1,case,26.3,EUR,UK
+MANUAL,MANUAL-00023,02/03/2025,Vertex Ltd.,Laptop dock USB-C - dept order,,10,ea,151.78,USD,Germany
+MANUAL,MANUAL-00024,30/12/2025,Harbour Scientific,Pallet freight delivery (urgent),,1,shipment,158.46,USD,Ireland
+MANUAL,MANUAL-00025,24/07/2025,Summit Fleet,Mobile voice and data plan,Telecom > Telecom Services,1,mo,40.3,USD,United States
+MANUAL,MANUAL-00026,07/10/2025,CedarConsult.,Pallet freight delivery (urgent),freight services,2,shipment,135.47,GBP,France
+MANUAL,MANUAL-00027,29/09/2025,Redwood Telecom Services,Stretch wrap roll clear - dept order,Logistics - Packaging,1,roll,15.07,EUR,Ireland
+MANUAL,MANUAL-00028,24/05/2025,ApexPkgEurope,Protective safety glasses (urgent),personal protective equipment,1,ea,10.44,USD,United States
+MANUAL,MANUAL-00029,23/03/2025,ACME,Electricity supply usage,,1,MWh,107.69,EUR,Netherlands
+MANUAL,MANUAL-00030,26/01/2025,OrchardServices,Electricity supply usage - dept order,Facilities & Energy - Energy,1,MWh,99.85,GBP,Germany
+MANUAL,MANUAL-00031,01/04/2025,REDWOOD,Domestic parcel delivery,,1,shipment,24.93,EUR,Netherlands
+MANUAL,MANUAL-00032,20/09/2025,Acme Supply Co,whiteboard marker pack 12,office supplies,5,pack,12.35,USD,Netherlands
+MANUAL,MANUAL-00033,08/12/2025,Blue Bird Facilities,Industrial air filter medium (urgent),Office & MRO - Maintenance Supplies,5,ea,29.56,GBP,Ireland
+MANUAL,MANUAL-00034,21/04/2025,APEX Pack.,Data analytics consultant - dept order,,1,day,1026.28,EUR,Netherlands
+MANUAL,MANUAL-00035,05/06/2025,HarborScientificSupply,USB-C headset,IT Hardware > Peripherals,1,ea,77.58,USD,Netherlands
+MANUAL,MANUAL-00036,16/09/2025,BLUEBIRD,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,28.61,USD,United States
+MANUAL,MANUAL-00037,27/05/2025,Global Freight,Electric van lease monthly (urgent),Fleet > Vehicle Leasing,3,mo,633.23,EUR,France
+MANUAL,MANUAL-00038,05/11/2025,Cedar Consulting Group,Wireless keyboard and mouse set,IT Hardware > Peripherals,3,ea,43.95,USD,Netherlands
+MANUAL,MANUAL-00039,10/12/2025,Vertex Tech,hvac preventive maintenance visit,,10,visit,359.3,USD,Ireland
+MANUAL,MANUAL-00040,"Aug 23, 2025",MeridianEnergyServices,Industrial air filter medium - dept order,Office & MRO - Maintenance Supplies,2,ea,38.6,USD,Germany
+MANUAL,MANUAL-00041,21/02/2025,BLUEBIRD,Whiteboard marker pack 12,Office & MRO - Office Supplies,1,pack,13.26,USD,United States
+MANUAL,MANUAL-00042,12/07/2025,Pinnacle Safety,domestic parcel delivery,,2,shipment,26.64,USD,Germany
+MANUAL,MANUAL-00043,11/07/2025,Acme Supply Co,project collaboration annual license,Software & Cloud > Software Licenses,3,licence,114.11,EUR,Netherlands
+MANUAL,MANUAL-00044,"Aug 08, 2025",Harbour Scientific,mobile voice and data plan,Telecom - Telecom Services,1,mo,41.84,USD,United States
+MANUAL,MANUAL-00045,"Aug 08, 2025",MeridianEnergyServices,electric van lease monthly,Fleet > Vehicle Leasing,1,mo,701.59,EUR,United States
+MANUAL,MANUAL-00046,14/01/2025,Pinnacle PPE,Business laptop 14 inch (urgent),,2,ea,1370.6,USD,UK
+MANUAL,MANUAL-00047,23/03/2025,Summit Vehicle Leasing,Business laptop 14 inch - dept order,IT Hardware - Laptops,5,ea,1136.57,EUR,Ireland
+MANUAL,MANUAL-00048,25/11/2025,ACME,Nitrile safety gloves box - dept order,Office & MRO - Maintenance Supplies,2,BOXES,12.31,GBP,United States
+MANUAL,MANUAL-00049,19/10/2025,VERTEX TECHNOLOGY,Project collaboration annual license (urgent),software licenses,5,licence,96.55,GBP,France
+MANUAL,MANUAL-00050,18/03/2025,AcmeSupplyCo,PDF editor annual license - dept order,,2,licence,70.35,GBP,UK
+MANUAL,MANUAL-00051,02/12/2025,Blue Bird Facilities,electric van lease monthly,vehicle leasing,3,mo,676.21,EUR,UK
+MANUAL,MANUAL-00052,03/04/2025,HSS,process improvement consultant,Professional Services - Consulting,1,day,936.9,EUR,United States
+MANUAL,MANUAL-00053,12/09/2025,Cedar Consulting,HVAC preventive maintenance visit (urgent),,3,visit,325.17,EUR,Netherlands
+MANUAL,MANUAL-00054,26/02/2025,OrchardServices,project collaboration annual license,,2,licence,98.36,GBP,United States
+MANUAL,MANUAL-00055,07/02/2025,Global Freight,Industrial air filter medium,Office & MRO - Maintenance Supplies,1,ea,31.63,GBP,France
+MANUAL,MANUAL-00056,"Apr 13, 2025",Redwood Telecom,Industrial air filter medium - dept order,Office & MRO - Maintenance Supplies,10,ea,37.24,EUR,UK
+MANUAL,MANUAL-00057,31/07/2025,Cedar Consult.,PDF editor annual license - dept order,Software & Cloud > Software Licenses,1,licence,85.67,USD,Germany
+MANUAL,MANUAL-00058,"Apr 05, 2025",Pinnacle Equip.,industrial air filter medium,,1,ea,37.41,USD,Ireland
+MANUAL,MANUAL-00059,"Mar 01, 2025",Summit Fleet,Industrial air filter medium,Office & MRO - Maintenance Supplies,2,ea,28.51,GBP,Netherlands
+MANUAL,MANUAL-00060,02/01/2025,ACME,Office cleaning monthly service - dept order,Facilities & Energy > Facilities Services,3,mo,1111.46,USD,Germany
+MANUAL,MANUAL-00061,30/04/2025,Meridian Energy Services,Business laptop 14 inch (urgent),IT Hardware > Laptops,5,ea,1044.58,GBP,Germany
+MANUAL,MANUAL-00062,"Nov 01, 2025",MeridianEnergy,Cloud compute usage - dept order,,3,hour,3.95,EUR,Germany
+MANUAL,MANUAL-00063,22/09/2025,GFPLogistics,Mobile voice and data plan (urgent),Telecom - Telecom Services,5,mo,35.38,EUR,Ireland
+MANUAL,MANUAL-00064,16/07/2025,Pinnacle Safety,HVAC preventive maintenance visit - dept order,,1,visit,267.35,GBP,France
+MANUAL,MANUAL-00065,17/10/2025,Harbor Scientific Supply,Laboratory nitrile gloves box,,1,BOXES,18.06,USD,Ireland
+MANUAL,MANUAL-00066,22/06/2025,Redwood Telecom,A4 copy paper case 5 reams,Office & MRO - Office Supplies,1,case,21.26,GBP,Netherlands
+MANUAL,MANUAL-00067,16/07/2025,Summit Leasing,monitor 27 inch qhd,IT Hardware > Displays,2,ea,172.73,GBP,Netherlands
+MANUAL,MANUAL-00068,09/10/2025,CEDARCG,business laptop 14 inch,IT Hardware > Laptops,10,ea,1334.41,USD,Ireland
+MANUAL,MANUAL-00069,04/07/2025,Siem. AG,Cloud compute usage,,3,hour,3.5,GBP,UK
+MANUAL,MANUAL-00070,21/12/2025,GFP Logistics,Nitrile safety gloves box (urgent),maintenance supplies,1,BOXES,15.48,USD,UK
+MANUAL,MANUAL-00071,"Dec 18, 2025",Vertex Tech,Compact vehicle lease monthly (urgent),Fleet > Vehicle Leasing,3,mo,324.96,GBP,Netherlands
+MANUAL,MANUAL-00072,"Feb 22, 2025",Harbour Scientific,Nitrile safety gloves box,Office & MRO - Maintenance Supplies,1,BOXES,16.13,USD,Netherlands
+MANUAL,MANUAL-00073,05/05/2025,BluebirdFacilitiesGroup,USB-C adapter multiport,IT Hardware - Peripherals,5,ea,28.78,GBP,Germany
+MANUAL,MANUAL-00074,20/12/2025,Meridian Energy Services,cloud storage monthly subscription,cloud services,10,mo,250.78,EUR,France
+MANUAL,MANUAL-00075,01/02/2025,SiemensAG,stretch wrap roll clear,packaging,2,roll,16.95,USD,UK
+MANUAL,MANUAL-00076,05/07/2025,ACME Ind.,Industrial air filter medium - dept order,maintenance supplies,1,ea,35.36,EUR,UK
+MANUAL,MANUAL-00077,04/05/2025,OrchardMaintenanceCo,Protective safety glasses (urgent),,5,ea,10.55,USD,Germany
+MANUAL,MANUAL-00078,12/04/2025,NORTHSTAR,HVAC preventive maintenance visit - dept order,Facilities & Energy - Facilities Services,3,visit,355.59,USD,Germany
+MANUAL,MANUAL-00079,01/05/2025,Siemens AG,Project collaboration annual license,software licenses,1,licence,110.4,EUR,France
+MANUAL,MANUAL-00080,"Jul 03, 2025",siemens,whiteboard marker pack 12,,5,pack,11.88,EUR,France
+MANUAL,MANUAL-00081,"Jan 08, 2025",Pinnacle Equip.,Cloud compute usage,cloud services,1,hour,3.35,GBP,United States
+MANUAL,MANUAL-00082,"Sep 02, 2025",NorthstarOfficeProducts,Laptop dock USB-C - dept order,,3,ea,141.43,EUR,Germany
+MANUAL,MANUAL-00083,17/10/2025,BlueBirdFacilities,USB-C headset - dept order,IT Hardware - Peripherals,3,ea,68.47,EUR,France
+MANUAL,MANUAL-00084,04/02/2025,Vertex Tech,Project collaboration annual license (urgent),Software & Cloud - Software Licenses,1,licence,122.23,EUR,UK
+MANUAL,MANUAL-00085,10/03/2025,Global Frt. Ptnrs,PDF editor annual license (urgent),software licenses,1,licence,76.34,EUR,Ireland
+MANUAL,MANUAL-00086,22/12/2025,Northstar Co.,Compact vehicle lease monthly (urgent),Fleet - Vehicle Leasing,5,mo,349.28,GBP,United States
+MANUAL,MANUAL-00087,08/07/2025,REDWOOD,pdf editor annual license,software licenses,1,licence,69.16,GBP,France
+MANUAL,MANUAL-00088,15/09/2025,Meridian Energy,usb-c headset,IT Hardware > Peripherals,10,ea,60.88,GBP,Ireland
+MANUAL,MANUAL-00089,13/02/2025,SiemensGmbH,Business broadband connection - dept order,Telecom > Telecom Services,1,mo,61.94,GBP,Ireland
+MANUAL,MANUAL-00090,14/12/2025,Apex Pkg Europe,usb-c headset,IT Hardware > Peripherals,10,ea,57.39,GBP,United States
+MANUAL,MANUAL-00091,23/10/2025,Bluebird Facilities Group,electricity supply usage,energy,1,MWh,91.01,GBP,UK
+MANUAL,MANUAL-00092,28/09/2025,Summit Leasing,Industrial air filter medium (urgent),Office & MRO > Maintenance Supplies,5,ea,29.75,GBP,France
+MANUAL,MANUAL-00093,23/11/2025,Global Freight Partners,Laboratory nitrile gloves box,laboratory supplies,1,BOXES,15.78,GBP,Netherlands
+MANUAL,MANUAL-00094,15/12/2025,Apex Packaging,Data analytics consultant (urgent),Professional Services > Consulting,5,day,1111.77,EUR,UK
+MANUAL,MANUAL-00095,12/08/2025,HSS,Electricity supply usage - dept order,energy,5,MWh,92.99,GBP,United States
+MANUAL,MANUAL-00096,22/09/2025,SIEMENS,Office cleaning monthly service (urgent),facilities services,1,mo,856.15,GBP,UK
+MANUAL,MANUAL-00097,21/04/2025,Apex Packaging Europe,pallet freight delivery,Logistics - Freight Services,3,shipment,159.1,USD,France
+MANUAL,MANUAL-00098,"Apr 28, 2025",CEDAR CG,Whiteboard marker pack 12 - dept order,Office & MRO - Office Supplies,1,pack,9.59,GBP,UK
+MANUAL,MANUAL-00099,02/01/2025,Global Frt. Ptnrs,Monitor 27 inch QHD,displays,1,ea,170.79,GBP,Germany
+MANUAL,MANUAL-00100,21/09/2025,Siem.AG,Laboratory nitrile gloves box - dept order,Safety & Lab > Laboratory Supplies,1,BOXES,17.44,EUR,Netherlands
+MANUAL,MANUAL-00101,12/11/2025,Pinnacle Safety,Domestic parcel delivery (urgent),freight services,2,shipment,20.83,GBP,Ireland
+MANUAL,MANUAL-00102,04/04/2025,Redwood Telecom Services,business broadband connection,telecom services,1,mo,61.44,GBP,United States
+MANUAL,MANUAL-00103,06/09/2025,Apex Packaging Europe,Monitor 27 inch QHD - dept order,displays,10,ea,169.65,GBP,Germany
+MANUAL,MANUAL-00104,15/01/2025,Northstar Office Products,Business laptop 14 inch,IT Hardware - Laptops,1,ea,1304.23,USD,France
+MANUAL,MANUAL-00105,15/02/2025,Orchard Services,compact vehicle lease monthly,Fleet - Vehicle Leasing,1,mo,399.84,EUR,Germany
+MANUAL,MANUAL-00106,"Oct 16, 2025",Global Freight Partners,USB-C headset (urgent),,1,ea,75.85,USD,United States
+MANUAL,MANUAL-00107,08/02/2025,siemens,Monitor 27 inch QHD - dept order,displays,2,ea,223.8,USD,UK
+MANUAL,MANUAL-00108,08/08/2025,Harbour Scientific,Domestic parcel delivery,Logistics > Freight Services,3,shipment,20.78,GBP,United States
+MANUAL,MANUAL-00109,11/08/2025,Harbor Sci.,Compact vehicle lease monthly - dept order,Fleet - Vehicle Leasing,2,mo,426.35,USD,Netherlands
+MANUAL,MANUAL-00110,22/07/2025,Orchard Maint.,Domestic parcel delivery (urgent),,10,shipment,22.79,EUR,France
+MANUAL,MANUAL-00111,09/06/2025,Pinnacle Safety,USB-C headset - dept order,,1,ea,55.58,GBP,UK
+MANUAL,MANUAL-00112,18/01/2025,REDWOOD,Wireless keyboard and mouse set - dept order,IT Hardware > Peripherals,2,ea,39.0,EUR,Netherlands
+MANUAL,MANUAL-00113,08/09/2025,Apex Pkg Europe,Compact vehicle lease monthly - dept order,Fleet > Vehicle Leasing,2,mo,397.3,EUR,Netherlands
+MANUAL,MANUAL-00114,05/08/2025,Cedar Consulting,pdf editor annual license,Software & Cloud > Software Licenses,1,licence,72.21,GBP,Germany
+MANUAL,MANUAL-00115,03/11/2025,Pinnacle Safety Equipment,nitrile safety gloves box,Office & MRO - Maintenance Supplies,10,BOXES,12.15,GBP,Germany
+MANUAL,MANUAL-00116,04/09/2025,AcmeIndustrialSupplies,Wireless keyboard and mouse set,peripherals,1,ea,44.0,USD,France
+MANUAL,MANUAL-00117,"Mar 26, 2025",North Star Office,Whiteboard marker pack 12 (urgent),Office & MRO - Office Supplies,1,pack,13.36,USD,France
+MANUAL,MANUAL-00118,15/06/2025,ORCHARD,A4 copy paper case 5 reams (urgent),Office & MRO - Office Supplies,1,case,25.52,EUR,United States
+MANUAL,MANUAL-00119,06/09/2025,ApexPackagingEurope,electric van lease monthly,Fleet - Vehicle Leasing,1,mo,675.13,EUR,UK
+MANUAL,MANUAL-00120,"Jun 18, 2025",Bluebird Facilities Group,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,BOXES,12.32,GBP,Germany
+MANUAL,MANUAL-00121,"Mar 03, 2025",Northstar Co.,Wireless keyboard and mouse set (urgent),IT Hardware - Peripherals,2,ea,44.8,USD,UK
+MANUAL,MANUAL-00122,04/01/2025,Redwood Telecom,Mobile voice and data plan - dept order,,3,mo,38.66,EUR,France
+MANUAL,MANUAL-00123,19/01/2025,Global Freight,Business laptop 14 inch (urgent),laptops,3,ea,1296.16,USD,Netherlands
+MANUAL,MANUAL-00124,28/01/2025,Redwood Telecom,Process improvement consultant - dept order,Professional Services - Consulting,3,day,1004.27,USD,France
+MANUAL,MANUAL-00125,16/10/2025,Pinnacle Safety,laboratory nitrile gloves box,,10,BOXES,18.05,USD,Ireland
+MANUAL,MANUAL-00126,27/10/2025,MeridianEnergyServices,a4 copy paper case 5 reams,Office & MRO - Office Supplies,1,case,21.02,GBP,United States
+MANUAL,MANUAL-00127,22/05/2025,ACMEInd.,Monitor 27 inch QHD (urgent),IT Hardware - Displays,1,ea,204.87,EUR,Netherlands
+MANUAL,MANUAL-00128,29/07/2025,AcmeIndustrialSupplies,Mobile voice and data plan (urgent),,10,mo,31.2,GBP,France
+MANUAL,MANUAL-00129,25/04/2025,BluebirdFM,Cloud compute usage,cloud services,2,hour,3.31,GBP,Netherlands
+MANUAL,MANUAL-00130,07/11/2025,Summit Vehicle Leasing,Cloud storage monthly subscription (urgent),cloud services,3,mo,289.04,USD,France
+MANUAL,MANUAL-00131,"May 08, 2025",OrchardMaintenanceCo,Domestic parcel delivery - dept order,,1,shipment,24.34,EUR,Netherlands
+MANUAL,MANUAL-00132,11/02/2025,Meridian Energy Services,USB-C adapter multiport - dept order,IT Hardware - Peripherals,1,ea,29.25,GBP,UK
+MANUAL,MANUAL-00133,"Oct 02, 2025",Siemens GmbH,Nitrile safety gloves box - dept order,Office & MRO - Maintenance Supplies,10,BOXES,15.88,EUR,UK
+MANUAL,MANUAL-00134,"Jul 28, 2025",RedwoodTelco,electric van lease monthly,Fleet - Vehicle Leasing,10,mo,751.64,USD,UK
+MANUAL,MANUAL-00135,28/06/2025,Cedar Consulting Group,laboratory nitrile gloves box,,3,BOXES,20.2,USD,Germany
+MANUAL,MANUAL-00136,"May 03, 2025",MERIDIAN,Project collaboration annual license (urgent),Software & Cloud > Software Licenses,3,licence,94.09,GBP,United States
+MANUAL,MANUAL-00137,20/02/2025,Northstar Co.,Office cleaning monthly service,,2,mo,923.72,GBP,United States
+MANUAL,MANUAL-00138,14/11/2025,HarborSci.,Business laptop 14 inch - dept order,,5,ea,1293.01,USD,Netherlands
+MANUAL,MANUAL-00139,06/05/2025,NorthstarOfficeProducts,Nitrile safety gloves box,Office & MRO - Maintenance Supplies,10,BOXES,13.56,GBP,Netherlands
+MANUAL,MANUAL-00140,09/12/2025,Redwood Telco,USB-C headset - dept order,,3,ea,77.56,USD,Netherlands
+MANUAL,MANUAL-00141,"Mar 16, 2025",North Star Office,Project collaboration annual license (urgent),,5,licence,111.38,EUR,Germany
+MANUAL,MANUAL-00142,"Jan 07, 2025",HarborSci.,laptop dock usb-c,IT Hardware - Laptops,1,ea,156.69,USD,Germany
+MANUAL,MANUAL-00143,02/11/2025,RedwoodTelecomServices,Wireless keyboard and mouse set (urgent),peripherals,1,ea,43.71,USD,Netherlands
+MANUAL,MANUAL-00144,07/09/2025,OrchardMaintenanceCo,Protective safety glasses - dept order,Safety & Lab - Personal Protective Equipment,1,ea,10.15,EUR,Germany
+MANUAL,MANUAL-00145,29/11/2025,Vertex Tech,PDF editor annual license,,1,licence,69.72,GBP,Germany
+MANUAL,MANUAL-00146,05/03/2025,Bluebird Facilities Group,usb-c headset,IT Hardware > Peripherals,2,ea,55.7,GBP,Ireland
+MANUAL,MANUAL-00147,21/07/2025,Orchard Services,Project collaboration annual license,Software & Cloud > Software Licenses,1,licence,98.03,GBP,UK
+MANUAL,MANUAL-00148,12/01/2025,Northstar Co.,Mobile voice and data plan - dept order,Telecom > Telecom Services,1,mo,40.09,USD,UK
+MANUAL,MANUAL-00149,11/06/2025,Orchard Services,Laptop dock USB-C,IT Hardware - Laptops,2,ea,139.32,EUR,Germany
+MANUAL,MANUAL-00150,15/10/2025,Blue Bird Facilities,office cleaning monthly service,Facilities & Energy - Facilities Services,3,mo,925.59,GBP,United States
+MANUAL,MANUAL-00151,"Sep 01, 2025",SummitFleet,Monitor 27 inch QHD - dept order,,1,ea,236.11,USD,Germany
+MANUAL,MANUAL-00152,12/01/2025,Apex Packaging Europe,Monitor 27 inch QHD - dept order,IT Hardware > Displays,1,ea,179.24,GBP,Ireland
+MANUAL,MANUAL-00153,07/04/2025,Acme Industrial Supplies,USB-C headset (urgent),IT Hardware > Peripherals,1,ea,60.78,GBP,Netherlands
+MANUAL,MANUAL-00154,23/04/2025,Cedar Consulting Group,Nitrile safety gloves box - dept order,maintenance supplies,2,BOXES,15.03,EUR,United States
+MANUAL,MANUAL-00155,22/05/2025,Vertex Ltd.,wireless keyboard and mouse set,IT Hardware - Peripherals,1,ea,40.57,EUR,Ireland
+MANUAL,MANUAL-00156,"Jan 10, 2025",Cedar Consulting,Black toner cartridge - dept order,Office & MRO - Office Supplies,1,ea,62.98,EUR,UK
+MANUAL,MANUAL-00157,14/06/2025,Cedar Consulting,Wireless keyboard and mouse set,peripherals,3,ea,44.79,USD,Germany
+MANUAL,MANUAL-00158,05/11/2025,Vertex Tech,Office cleaning monthly service (urgent),Facilities & Energy > Facilities Services,1,mo,1133.23,USD,Ireland
+MANUAL,MANUAL-00159,22/04/2025,PinnacleSafety,office cleaning monthly service,Facilities & Energy - Facilities Services,1,mo,889.47,GBP,France
+MANUAL,MANUAL-00160,12/11/2025,Redwood Telecom Services,Project collaboration annual license,software licenses,1,licence,102.09,GBP,United States
+MANUAL,MANUAL-00161,07/04/2025,SIEMENS,usb-c headset,IT Hardware > Peripherals,2,ea,60.95,GBP,France
+MANUAL,MANUAL-00162,22/01/2025,Vertex Ltd.,business laptop 14 inch,IT Hardware - Laptops,1,ea,1233.43,USD,United States
+MANUAL,MANUAL-00163,31/12/2025,Acme Supply Co,Wireless keyboard and mouse set,IT Hardware > Peripherals,5,ea,33.73,GBP,Germany
+MANUAL,MANUAL-00164,07/04/2025,Meridian Utilities,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,ea,34.88,GBP,Ireland
+MANUAL,MANUAL-00165,07/10/2025,Redwood Telecom Services,PDF editor annual license (urgent),software licenses,3,licence,87.13,USD,UK
+MANUAL,MANUAL-00166,"Mar 31, 2025",MERIDIAN,Monitor 27 inch QHD (urgent),displays,1,ea,211.51,USD,Ireland
+MANUAL,MANUAL-00167,10/03/2025,SummitLeasing,electric van lease monthly,Fleet - Vehicle Leasing,1,mo,755.97,USD,Ireland
+MANUAL,MANUAL-00168,08/05/2025,Cedar Consulting,PDF editor annual license,Software & Cloud - Software Licenses,10,licence,69.28,GBP,UK
+MANUAL,MANUAL-00169,04/12/2025,CEDAR CG,Compact vehicle lease monthly,Fleet - Vehicle Leasing,1,mo,330.88,GBP,Germany
+MANUAL,MANUAL-00170,05/02/2025,Siem. AG,usb-c headset,IT Hardware - Peripherals,3,ea,56.29,GBP,UK
+MANUAL,MANUAL-00171,14/12/2025,Siemens AG,Wireless keyboard and mouse set,IT Hardware - Peripherals,2,ea,39.53,EUR,Netherlands
+MANUAL,MANUAL-00172,"Jan 21, 2025",Apex Pkg Europe,Black toner cartridge (urgent),Office & MRO - Office Supplies,1,ea,51.05,GBP,Netherlands
+MANUAL,MANUAL-00173,"Jul 02, 2025",OrchardMaint.,Process improvement consultant - dept order,,1,day,858.27,GBP,Netherlands
+MANUAL,MANUAL-00174,09/06/2025,Harbour Scientific,Data analytics consultant,,1,day,891.31,GBP,Netherlands
+MANUAL,MANUAL-00175,25/07/2025,Vertex Technology Ltd,process improvement consultant,,5,day,779.67,GBP,Netherlands
+MANUAL,MANUAL-00176,01/06/2025,Redwood Telecom Services,PDF editor annual license,,1,licence,81.45,EUR,Netherlands
+MANUAL,MANUAL-00177,04/10/2025,Siem. AG,Wireless keyboard and mouse set (urgent),IT Hardware > Peripherals,1,ea,38.71,EUR,UK
+MANUAL,MANUAL-00178,17/08/2025,ACMEInd.,Black toner cartridge (urgent),office supplies,2,ea,67.09,USD,Netherlands
+MANUAL,MANUAL-00179,17/09/2025,Acme Industrial Supplies,Cloud compute usage - dept order,Software & Cloud > Cloud Services,2,hour,4.08,EUR,Germany
+MANUAL,MANUAL-00180,19/11/2025,ACMEInd.,Electric van lease monthly,Fleet > Vehicle Leasing,5,mo,754.97,USD,UK
+MANUAL,MANUAL-00181,17/04/2025,Global Freight Partners,Nitrile safety gloves box - dept order,Office & MRO > Maintenance Supplies,1,BOXES,13.21,GBP,UK
+MANUAL,MANUAL-00182,11/03/2025,BLUEBIRD,usb-c headset,IT Hardware > Peripherals,1,ea,69.28,EUR,UK
+MANUAL,MANUAL-00183,07/05/2025,ORCHARD,Cloud storage monthly subscription (urgent),Software & Cloud > Cloud Services,1,mo,223.82,GBP,UK
+MANUAL,MANUAL-00184,16/06/2025,ACME Ind.,Pallet freight delivery (urgent),Logistics - Freight Services,1,shipment,164.48,EUR,France
+MANUAL,MANUAL-00185,08/09/2025,APEXPack.,Project collaboration annual license - dept order,software licenses,1,licence,98.11,GBP,Ireland
+MANUAL,MANUAL-00186,30/06/2025,Orchard Services,mobile voice and data plan,telecom services,1,mo,40.78,USD,UK
+MANUAL,MANUAL-00187,01/04/2025,Siem. AG,Project collaboration annual license - dept order,software licenses,1,licence,95.97,GBP,France
+MANUAL,MANUAL-00188,"Dec 16, 2025",Redwood Telecom,Whiteboard marker pack 12 (urgent),Office & MRO > Office Supplies,1,pack,12.02,USD,Ireland
+MANUAL,MANUAL-00189,28/05/2025,HSS,Electricity supply usage (urgent),,1,MWh,97.19,GBP,France
+MANUAL,MANUAL-00190,"Oct 06, 2025",REDWOOD,protective safety glasses,Safety & Lab > Personal Protective Equipment,1,ea,8.29,GBP,Netherlands
+MANUAL,MANUAL-00191,26/09/2025,North Star Office,Whiteboard marker pack 12,,10,pack,11.81,EUR,United States
+MANUAL,MANUAL-00192,19/09/2025,ACME Ind.,mobile voice and data plan,,1,mo,32.56,GBP,UK
+MANUAL,MANUAL-00193,02/04/2025,SUMMIT VL,Laptop dock USB-C (urgent),,5,ea,157.57,USD,United States
+MANUAL,MANUAL-00194,"Apr 03, 2025",Apex Packaging,Wireless keyboard and mouse set (urgent),IT Hardware > Peripherals,10,ea,36.11,GBP,United States
+MANUAL,MANUAL-00195,"Jul 01, 2025",Redwood Telco,Cloud compute usage,Software & Cloud - Cloud Services,5,hour,3.98,EUR,France
+MANUAL,MANUAL-00196,"Dec 08, 2025",Siemens AG,Laptop dock USB-C (urgent),IT Hardware > Laptops,10,ea,166.97,USD,Germany
+MANUAL,MANUAL-00197,18/01/2025,ORCHARD,cloud compute usage,cloud services,3,hour,4.26,EUR,Germany
+MANUAL,MANUAL-00198,02/12/2025,Redwood Telco,Cloud compute usage (urgent),Software & Cloud - Cloud Services,10,hour,4.32,USD,United States
+MANUAL,MANUAL-00199,23/11/2025,Harbour Scientific,PDF editor annual license (urgent),Software & Cloud - Software Licenses,2,licence,66.98,GBP,United States
+MANUAL,MANUAL-00200,28/07/2025,Siemens GmbH,industrial air filter medium,maintenance supplies,1,ea,29.57,GBP,UK
+MANUAL,MANUAL-00201,"Jan 26, 2025",REDWOOD,Pallet freight delivery - dept order,Logistics > Freight Services,1,shipment,148.51,EUR,Netherlands
+MANUAL,MANUAL-00202,25/03/2025,Redwood Telecom,USB-C adapter multiport (urgent),,1,ea,34.79,EUR,Netherlands
+MANUAL,MANUAL-00203,14/07/2025,Summit Vehicle Leasing,laptop dock usb-c,IT Hardware - Laptops,5,ea,147.54,EUR,Netherlands
+MANUAL,MANUAL-00204,06/12/2025,BLUEBIRD,Business broadband connection,Telecom - Telecom Services,10,mo,60.24,GBP,Netherlands
+MANUAL,MANUAL-00205,07/09/2025,NorthstarCo.,Pallet freight delivery,,5,shipment,126.28,GBP,Netherlands
+MANUAL,MANUAL-00206,"Mar 19, 2025",BLUEBIRD,Corrugated shipping box medium - dept order,packaging,1,BOXES,1.19,EUR,Germany
+MANUAL,MANUAL-00207,15/09/2025,Pinnacle PPE,Monitor 27 inch QHD,IT Hardware - Displays,5,ea,207.59,EUR,Germany
+MANUAL,MANUAL-00208,06/02/2025,BluebirdFacilitiesGroup,Stretch wrap roll clear - dept order,,5,roll,13.11,GBP,Germany
+MANUAL,MANUAL-00209,12/01/2025,CEDAR CG,Electric van lease monthly,Fleet - Vehicle Leasing,10,mo,675.95,USD,UK
+MANUAL,MANUAL-00210,06/01/2025,HSS,Office cleaning monthly service (urgent),Facilities & Energy - Facilities Services,2,mo,927.44,GBP,Germany
+MANUAL,MANUAL-00211,24/12/2025,APEX Pack.,USB-C adapter multiport - dept order,peripherals,1,ea,27.19,GBP,France
+MANUAL,MANUAL-00212,25/11/2025,BLUEBIRD,laptop dock usb-c,IT Hardware > Laptops,3,ea,127.23,GBP,United States
+MANUAL,MANUAL-00213,"Dec 17, 2025",ApexPackagingEurope,Business laptop 14 inch - dept order,IT Hardware > Laptops,1,ea,1225.49,USD,United States
+MANUAL,MANUAL-00214,"Nov 30, 2025",North Star Office,industrial air filter medium,Office & MRO - Maintenance Supplies,5,ea,36.7,USD,Ireland
+MANUAL,MANUAL-00215,20/08/2025,NORTHSTAR,business laptop 14 inch,laptops,1,ea,1370.28,USD,Netherlands
+MANUAL,MANUAL-00216,04/11/2025,Apex Packaging Europe,Compact vehicle lease monthly,Fleet - Vehicle Leasing,2,mo,402.97,USD,United States
+MANUAL,MANUAL-00217,09/02/2025,Global Freight Partners,Stretch wrap roll clear - dept order,Logistics - Packaging,5,roll,18.12,USD,United States
+MANUAL,MANUAL-00218,07/02/2025,Redwood Telco,Process improvement consultant (urgent),consulting,1,day,838.25,GBP,UK
+MANUAL,MANUAL-00219,"Mar 16, 2025",Bluebird Facilities Group,data analytics consultant,Professional Services - Consulting,1,day,1118.69,EUR,UK
+MANUAL,MANUAL-00220,24/03/2025,Global Frt. Ptnrs,project collaboration annual license,software licenses,5,licence,94.15,GBP,France
+MANUAL,MANUAL-00221,"Jan 15, 2025",Harbor Sci.,Corrugated shipping box medium (urgent),Logistics > Packaging,1,BOXES,0.99,GBP,Ireland
+MANUAL,MANUAL-00222,27/04/2025,SummitFleet,Electricity supply usage (urgent),energy,10,MWh,99.87,GBP,United States
+MANUAL,MANUAL-00223,12/01/2025,Acme Supply Co,hvac preventive maintenance visit,,1,visit,332.45,EUR,UK
+MANUAL,MANUAL-00224,11/06/2025,MERIDIAN,Business laptop 14 inch - dept order,IT Hardware > Laptops,5,ea,1021.37,GBP,United States
+MANUAL,MANUAL-00225,30/12/2025,North Star Office,A4 copy paper case 5 reams - dept order,office supplies,1,case,28.89,USD,Ireland
+MANUAL,MANUAL-00226,10/07/2025,Meridian Utilities,Data analytics consultant,Professional Services - Consulting,1,day,1101.12,USD,France
+MANUAL,MANUAL-00227,23/01/2025,Harbour Scientific,protective safety glasses,,1,ea,10.5,USD,UK
+MANUAL,MANUAL-00228,25/05/2025,Siem. AG,Black toner cartridge (urgent),office supplies,3,ea,62.98,EUR,France
+MANUAL,MANUAL-00229,07/11/2025,VertexLtd.,Data analytics consultant,consulting,10,day,1195.67,USD,Netherlands
+MANUAL,MANUAL-00230,11/08/2025,ApexPackagingEurope,Data analytics consultant - dept order,Professional Services - Consulting,1,day,1157.49,USD,UK
+MANUAL,MANUAL-00231,03/02/2025,Global Freight,usb-c adapter multiport,,10,ea,34.56,EUR,UK
+MANUAL,MANUAL-00232,16/10/2025,VERTEXTECHNOLOGY,Project collaboration annual license,software licenses,5,licence,116.42,EUR,Netherlands
+MANUAL,MANUAL-00233,02/06/2025,Cedar Consulting Group,Cloud storage monthly subscription - dept order,Software & Cloud > Cloud Services,1,mo,253.27,EUR,Ireland
+MANUAL,MANUAL-00234,24/04/2025,VertexTech,Project collaboration annual license,software licenses,10,licence,124.56,USD,France
+MANUAL,MANUAL-00235,"May 12, 2025",ACME Ind.,Industrial air filter medium,maintenance supplies,2,ea,29.48,GBP,Germany
+MANUAL,MANUAL-00236,17/01/2025,Northstar Co.,PDF editor annual license,Software & Cloud - Software Licenses,1,licence,82.96,USD,Netherlands
+MANUAL,MANUAL-00237,31/12/2025,Summit Fleet,Black toner cartridge,Office & MRO > Office Supplies,3,ea,63.82,USD,Ireland
+MANUAL,MANUAL-00238,08/03/2025,Vertex Technology Ltd,Whiteboard marker pack 12 (urgent),Office & MRO - Office Supplies,5,pack,10.11,GBP,Ireland
+MANUAL,MANUAL-00239,"Mar 14, 2025",Vertex Technology Ltd,PDF editor annual license (urgent),Software & Cloud > Software Licenses,1,licence,83.2,USD,Ireland
+MANUAL,MANUAL-00240,"Apr 19, 2025",Pinnacle Equip.,protective safety glasses,personal protective equipment,10,ea,8.82,GBP,Germany
+MANUAL,MANUAL-00241,02/06/2025,Harbor Scientific Supply,pdf editor annual license,Software & Cloud > Software Licenses,10,licence,81.81,EUR,United States
+MANUAL,MANUAL-00242,12/01/2025,ApexPackagingEurope,corrugated shipping box medium,packaging,10,BOXES,1.06,GBP,Netherlands
+MANUAL,MANUAL-00243,23/08/2025,siemens,Domestic parcel delivery,Logistics > Freight Services,1,shipment,19.17,GBP,Ireland
+MANUAL,MANUAL-00244,"Oct 05, 2025",Cedar Consulting,Data analytics consultant (urgent),Professional Services - Consulting,1,day,1229.57,USD,Netherlands
+MANUAL,MANUAL-00245,13/01/2025,SiemensAG,Cloud compute usage - dept order,cloud services,1,hour,3.93,EUR,UK
+MANUAL,MANUAL-00246,06/04/2025,ACME Ind.,Wireless keyboard and mouse set - dept order,,1,ea,45.55,USD,Germany
+MANUAL,MANUAL-00247,11/12/2025,North Star Office,Cloud compute usage (urgent),Software & Cloud - Cloud Services,10,hour,3.64,GBP,UK
+MANUAL,MANUAL-00248,"Dec 30, 2025",Vertex Technology Ltd,stretch wrap roll clear,,1,roll,16.62,EUR,France
+MANUAL,MANUAL-00249,06/04/2025,Apex Pkg Europe,Industrial air filter medium,Office & MRO > Maintenance Supplies,10,ea,34.22,EUR,Germany
+MANUAL,MANUAL-00250,21/02/2025,Apex Pkg Europe,Project collaboration annual license,Software & Cloud > Software Licenses,5,licence,121.43,USD,Netherlands
+MANUAL,MANUAL-00251,"Dec 27, 2025",Orchard Services,Cloud compute usage,,1,hour,4.14,USD,United States
+MANUAL,MANUAL-00252,13/03/2025,Acme Supply Co,USB-C adapter multiport,IT Hardware > Peripherals,5,ea,33.8,EUR,United States
+MANUAL,MANUAL-00253,25/02/2025,Bluebird Facilities Group,black toner cartridge,,1,ea,65.83,USD,Netherlands
+MANUAL,MANUAL-00254,04/10/2025,Siem.AG,industrial air filter medium,maintenance supplies,2,ea,37.49,EUR,United States
+MANUAL,MANUAL-00255,24/08/2025,Cedar Consulting Group,Compact vehicle lease monthly - dept order,,3,mo,427.84,USD,Netherlands
+MANUAL,MANUAL-00256,20/08/2025,ORCHARD,Compact vehicle lease monthly - dept order,,1,mo,317.36,GBP,Ireland
+MANUAL,MANUAL-00257,26/10/2025,CEDAR CG,Business laptop 14 inch (urgent),laptops,2,ea,1186.85,EUR,United States
+MANUAL,MANUAL-00258,05/09/2025,Redwood Telecom,Laboratory nitrile gloves box - dept order,laboratory supplies,3,BOXES,19.76,USD,UK
+MANUAL,MANUAL-00259,12/03/2025,Harbour Scientific,Wireless keyboard and mouse set,,2,ea,45.71,USD,Ireland
+MANUAL,MANUAL-00260,16/02/2025,Apex Packaging,process improvement consultant,Professional Services - Consulting,3,day,1074.61,USD,France
+MANUAL,MANUAL-00261,18/09/2025,BLUEBIRD,Industrial air filter medium,maintenance supplies,1,ea,33.81,EUR,Ireland
+MANUAL,MANUAL-00262,24/10/2025,Pinnacle PPE,Mobile voice and data plan (urgent),Telecom - Telecom Services,1,mo,32.83,GBP,Germany
+MANUAL,MANUAL-00263,17/12/2025,Vertex Tech,usb-c adapter multiport,IT Hardware > Peripherals,3,ea,35.38,USD,Germany
+MANUAL,MANUAL-00264,03/07/2025,VertexTech,USB-C headset,IT Hardware > Peripherals,3,ea,69.8,EUR,Ireland
+MANUAL,MANUAL-00265,17/02/2025,RedwoodTelecom,laboratory nitrile gloves box,,1,BOXES,15.85,GBP,Netherlands
+MANUAL,MANUAL-00266,29/12/2025,APEX Pack.,Cloud storage monthly subscription (urgent),,3,mo,245.7,EUR,France
+MANUAL,MANUAL-00267,19/02/2025,Siem. AG,stretch wrap roll clear,Logistics > Packaging,2,roll,16.73,USD,France
+MANUAL,MANUAL-00268,01/12/2025,Vertex Tech,Office cleaning monthly service - dept order,Facilities & Energy - Facilities Services,1,mo,1068.25,EUR,United States
+MANUAL,MANUAL-00269,11/06/2025,Summit Leasing,Cloud storage monthly subscription - dept order,cloud services,5,mo,297.79,USD,Netherlands
+MANUAL,MANUAL-00270,03/05/2025,Siemens AG,PDF editor annual license - dept order,Software & Cloud - Software Licenses,5,licence,72.36,GBP,Ireland
+MANUAL,MANUAL-00271,"May 28, 2025",Bluebird Facilities Group,Black toner cartridge - dept order,Office & MRO > Office Supplies,1,ea,61.92,EUR,Ireland
+MANUAL,MANUAL-00272,"Aug 24, 2025",Siem. AG,Business laptop 14 inch (urgent),IT Hardware - Laptops,1,ea,1374.43,USD,Germany
+MANUAL,MANUAL-00273,11/02/2025,Pinnacle PPE,Stretch wrap roll clear - dept order,packaging,1,roll,13.05,GBP,Germany
+MANUAL,MANUAL-00274,08/03/2025,HSS,business laptop 14 inch,IT Hardware > Laptops,1,ea,1022.92,GBP,France
+MANUAL,MANUAL-00275,25/05/2025,REDWOOD,Office cleaning monthly service - dept order,Facilities & Energy - Facilities Services,1,mo,1003.77,EUR,France
+MANUAL,MANUAL-00276,"Mar 29, 2025",Cedar Consult.,laboratory nitrile gloves box,Safety & Lab - Laboratory Supplies,2,BOXES,14.29,GBP,Germany
+MANUAL,MANUAL-00277,04/09/2025,VERTEX TECHNOLOGY,Domestic parcel delivery - dept order,,10,shipment,23.67,EUR,France
+MANUAL,MANUAL-00278,10/06/2025,Summit Vehicle Leasing,Protective safety glasses,Safety & Lab > Personal Protective Equipment,5,ea,8.25,GBP,France
+MANUAL,MANUAL-00279,12/04/2025,ACME Ind.,usb-c headset,IT Hardware > Peripherals,10,ea,56.27,GBP,France
+MANUAL,MANUAL-00280,21/12/2025,Apex Packaging,Process improvement consultant,Professional Services > Consulting,1,day,858.91,GBP,Ireland
+MANUAL,MANUAL-00281,"May 31, 2025",Meridian Energy Services,stretch wrap roll clear,,5,roll,12.86,GBP,UK
+MANUAL,MANUAL-00282,03/01/2025,Global Freight Partners,a4 copy paper case 5 reams,,1,case,26.01,EUR,UK
+MANUAL,MANUAL-00283,19/10/2025,Cedar Consulting Group,Data analytics consultant,consulting,2,day,1225.05,USD,France
+MANUAL,MANUAL-00284,"Feb 27, 2025",Acme Industrial Supplies,A4 copy paper case 5 reams - dept order,,1,case,26.23,EUR,Ireland
+MANUAL,MANUAL-00285,03/12/2025,BLUEBIRD,USB-C headset - dept order,peripherals,1,ea,67.07,EUR,Ireland
+MANUAL,MANUAL-00286,"Dec 19, 2025",APEX Pack.,Industrial air filter medium,maintenance supplies,2,ea,37.81,USD,Netherlands
+MANUAL,MANUAL-00287,"Apr 11, 2025",Redwood Telco,Business laptop 14 inch,IT Hardware > Laptops,1,ea,1184.53,EUR,UK
+MANUAL,MANUAL-00288,08/11/2025,Orchard Maintenance Co,Domestic parcel delivery,freight services,5,shipment,23.23,EUR,Ireland
+MANUAL,MANUAL-00289,"Aug 05, 2025",APEXPack.,Corrugated shipping box medium,Logistics > Packaging,10,BOXES,0.96,GBP,Germany
+MANUAL,MANUAL-00290,03/12/2025,Northstar Co.,laptop dock usb-c,laptops,1,ea,149.82,EUR,UK
+MANUAL,MANUAL-00291,30/06/2025,Pinnacle Equip.,HVAC preventive maintenance visit (urgent),Facilities & Energy - Facilities Services,5,visit,333.3,EUR,France
+MANUAL,MANUAL-00292,01/09/2025,Pinnacle Equip.,corrugated shipping box medium,Logistics - Packaging,5,BOXES,1.29,USD,Germany
+MANUAL,MANUAL-00293,"Jan 01, 2025",Apex Packaging,Project collaboration annual license,,5,licence,96.53,GBP,United States
+MANUAL,MANUAL-00294,26/05/2025,APEX Pack.,Mobile voice and data plan (urgent),Telecom - Telecom Services,2,mo,32.1,GBP,Ireland
+MANUAL,MANUAL-00295,"Dec 16, 2025",Harbor Scientific Supply,Business laptop 14 inch (urgent),IT Hardware - Laptops,5,ea,982.41,GBP,France
+MANUAL,MANUAL-00296,04/03/2025,RedwoodTelco,Corrugated shipping box medium - dept order,,10,BOXES,1.21,EUR,Ireland
+MANUAL,MANUAL-00297,17/06/2025,SummitFleet,Pallet freight delivery,freight services,3,shipment,177.4,USD,Ireland
+MANUAL,MANUAL-00298,10/02/2025,PinnacleEquip.,Whiteboard marker pack 12 - dept order,,1,pack,9.46,GBP,United States
+MANUAL,MANUAL-00299,"Mar 02, 2025",Northstar Co.,electric van lease monthly,vehicle leasing,3,mo,671.07,EUR,Germany
+MANUAL,MANUAL-00300,"May 20, 2025",NORTHSTAR,wireless keyboard and mouse set,IT Hardware > Peripherals,1,ea,42.81,USD,France
+MANUAL,MANUAL-00001,25/08/2025,NorthstarOfficeProducts,Black toner cartridge,,3,ea,65.52,EUR,Netherlands
+MANUAL,MANUAL-00002,"Sep 19, 2025",Redwood Telecom Services,Data analytics consultant (urgent),consulting,3,day,1078.19,EUR,Netherlands
+MANUAL,MANUAL-00003,"Dec 23, 2025",Pinnacle Equip.,Stretch wrap roll clear - dept order,,1,roll,13.6,GBP,United States
+MANUAL,MANUAL-00004,05/05/2025,Harbor Scientific Supply,Data analytics consultant - dept order,,3,day,1031.13,EUR,France
+MANUAL,MANUAL-00005,14/04/2025,CEDAR CG,HVAC preventive maintenance visit (urgent),facilities services,1,visit,281.23,GBP,UK
+MANUAL,MANUAL-00006,19/11/2025,Northstar Office Products,PDF editor annual license (urgent),Software & Cloud - Software Licenses,3,licence,65.83,GBP,UK
+MANUAL,MANUAL-00007,16/05/2025,Harbour Scientific,electric van lease monthly,vehicle leasing,1,mo,703.21,USD,UK
+MANUAL,MANUAL-00008,14/02/2025,VERTEXTECHNOLOGY,electricity supply usage,Facilities & Energy - Energy,1,MWh,112.25,EUR,UK
+MANUAL,MANUAL-00009,09/10/2025,Cedar Consult.,business broadband connection,Telecom > Telecom Services,1,mo,62.37,GBP,France

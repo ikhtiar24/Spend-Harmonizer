@@ -1,0 +1,511 @@
+source_system,source_transaction_id,invoice_date,supplier_name,description,category,quantity,unit,unit_price,currency,region
+ERP,ERP-00001,2025-03-20,Siemens AG,A4 copy paper case 5 reams,Office & MRO > Office Supplies,5,case,30.03,USD,Germany
+ERP,ERP-00002,2025-07-29,Summit Vehicle Leasing,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,25.02,GBP,United States
+ERP,ERP-00003,2025-08-19,Vertex Technology Ltd,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,10,box,16.24,EUR,France
+ERP,ERP-00004,2025-08-25,Pinnacle Safety Equipment,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.91,USD,United States
+ERP,ERP-00005,2025-02-04,Bluebird Facilities Group,Monitor 27 inch QHD,IT Hardware > Displays,1,each,193.56,GBP,UK
+ERP,ERP-00006,2025-04-13,Acme Industrial Supplies,Business broadband connection,Telecom > Telecom Services,1,month,71.78,GBP,UK
+ERP,ERP-00007,2025-02-24,Summit Vehicle Leasing,Cloud compute usage,,1,hour,4.28,EUR,UK
+ERP,ERP-00008,2025-02-20,Orchard Maintenance Co,Office cleaning monthly service,Facilities & Energy > Facilities Services,5,month,935.0,GBP,Germany
+ERP,ERP-00009,2025-02-07,Bluebird Facilities Group,Mobile voice and data plan,Telecom > Telecom Services,3,month,44.89,USD,France
+ERP,ERP-00010,2025-11-24,Vertex Technology Ltd,Laptop dock USB-C,IT Hardware > Laptops,5,each,142.34,GBP,Germany
+ERP,ERP-00011,2025-02-20,Siemens AG,Stretch wrap roll clear,Logistics > Packaging,5,roll,17.97,EUR,Netherlands
+ERP,ERP-00012,2025-09-30,Cedar Consulting Group,Cloud storage monthly subscription,Software & Cloud > Cloud Services,5,month,325.2,USD,France
+ERP,ERP-00013,2025-02-21,Apex Packaging Europe,Laptop dock USB-C,,2,each,153.07,EUR,Germany
+ERP,ERP-00014,2025-04-18,Bluebird Facilities Group,Compact vehicle lease monthly,Fleet > Vehicle Leasing,10,month,350.57,GBP,United States
+ERP,ERP-00015,2025-06-07,Pinnacle Safety Equipment,USB-C adapter multiport,IT Hardware > Peripherals,1,each,38.15,EUR,Ireland
+ERP,ERP-00016,2025-11-20,Harbor Scientific Supply,USB-C headset,IT Hardware > Peripherals,1,each,80.35,EUR,Germany
+ERP,ERP-00017,2025-05-21,Harbor Scientific Supply,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,23.32,GBP,UK
+ERP,ERP-00018,2025-05-02,Meridian Energy Services,Electricity supply usage,Facilities & Energy > Energy,1,MWh,129.2,EUR,Ireland
+ERP,ERP-00019,2025-04-08,Global Freight Partners,Whiteboard marker pack 12,Office & MRO > Office Supplies,3,pack,13.94,USD,France
+ERP,ERP-00020,2025-01-12,Pinnacle Safety Equipment,Protective safety glasses,Safety & Lab > Personal Protective Equipment,2,each,9.19,GBP,UK
+ERP,ERP-00021,2025-12-11,Pinnacle Safety Equipment,Data analytics consultant,Professional Services > Consulting,1,day,1036.65,GBP,United States
+ERP,ERP-00022,2025-05-11,Meridian Energy,Compact vehicle lease monthly,Fleet > Vehicle Leasing,10,month,353.4,GBP,Germany
+ERP,ERP-00023,2025-06-06,Redwood Telco,Stretch wrap roll clear,Logistics > Packaging,2,roll,17.38,EUR,UK
+ERP,ERP-00024,2025-02-26,Vertex Technology Ltd,Electric van lease monthly,Fleet > Vehicle Leasing,2,month,760.46,USD,United States
+ERP,ERP-00025,2025-05-15,Global Freight Partners,Cloud compute usage,Software & Cloud > Cloud Services,1,hour,4.4,EUR,United States
+ERP,ERP-00026,2025-08-23,Meridian Utilities,Domestic parcel delivery,Logistics > Freight Services,1,shipment,22.56,GBP,Ireland
+ERP,ERP-00027,2025-06-13,Global Freight Partners,Cloud compute usage,Software & Cloud > Cloud Services,1,hour,4.97,USD,Ireland
+ERP,ERP-00028,2025-09-13,Harbor Scientific Supply,Electricity supply usage,Facilities & Energy > Energy,2,MWh,101.8,GBP,United States
+ERP,ERP-00029,2025-08-11,Bluebird Facilities Group,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,47.56,USD,Germany
+ERP,ERP-00030,2025-11-23,Global Freight Partners,Business broadband connection,Telecom > Telecom Services,1,month,85.89,USD,Germany
+ERP,ERP-00031,2025-09-10,Summit Vehicle Leasing,Project collaboration annual license,Software & Cloud > Software Licenses,1,license,132.41,USD,United States
+ERP,ERP-00032,2025-01-23,Meridian Energy Services,Data analytics consultant,Professional Services > Consulting,2,day,986.83,GBP,United States
+ERP,ERP-00033,2025-03-19,Acme Industrial Supplies,Business laptop 14 inch,IT Hardware > Laptops,2,each,865.47,USD,UK
+ERP,ERP-00034,2025-07-12,Cedar Consulting Group,Industrial air filter medium,Office & MRO > Maintenance Supplies,10,each,36.84,EUR,France
+ERP,ERP-00035,2025-01-27,Global Freight Partners,Monitor 27 inch QHD,IT Hardware > Displays,3,each,232.98,EUR,United States
+ERP,ERP-00036,2025-01-25,Apex Packaging Europe,Electric van lease monthly,Fleet > Vehicle Leasing,2,month,648.27,GBP,Netherlands
+ERP,ERP-00037,2025-07-20,Global Freight Partners,Protective safety glasses,Safety & Lab > Personal Protective Equipment,5,each,10.75,EUR,Ireland
+ERP,ERP-00038,2025-01-21,Cedar Consulting,Cloud compute usage,Software & Cloud > Cloud Services,10,hour,4.66,EUR,France
+ERP,ERP-00039,2025-02-10,Redwood Telecom Services,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,485.34,USD,Netherlands
+ERP,ERP-00040,2025-10-08,Orchard Maintenance Co,Whiteboard marker pack 12,Office & MRO > Office Supplies,3,pack,14.09,USD,Ireland
+ERP,ERP-00041,2025-03-21,Redwood Telecom,Mobile voice and data plan,Telecom > Telecom Services,1,month,33.22,GBP,Germany
+ERP,ERP-00042,2025-06-07,Bluebird Facilities Group,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,380.77,USD,United States
+ERP,ERP-00043,2025-02-25,Redwood Telecom Services,Industrial air filter medium,Office & MRO > Maintenance Supplies,2,each,40.07,USD,France
+ERP,ERP-00044,2025-06-25,Acme Industrial Supplies,Laptop dock USB-C,IT Hardware > Laptops,2,each,166.25,EUR,UK
+ERP,ERP-00045,2025-04-30,Global Freight Partners,HVAC preventive maintenance visit,,10,visit,302.17,GBP,Netherlands
+ERP,ERP-00046,2025-07-16,Pinnacle Safety Equipment,Electricity supply usage,Facilities & Energy > Energy,10,MWh,124.91,EUR,UK
+ERP,ERP-00047,2025-11-12,Vertex Technology Ltd,Business laptop 14 inch,IT Hardware > Laptops,1,each,759.1,GBP,Netherlands
+ERP,ERP-00048,2025-09-18,Orchard Maintenance Co,Monitor 27 inch QHD,IT Hardware > Displays,10,each,254.78,USD,Ireland
+ERP,ERP-00049,2025-10-17,Redwood Telecom Services,Monitor 27 inch QHD,IT Hardware > Displays,2,each,226.24,EUR,Netherlands
+ERP,ERP-00050,2025-02-07,Harbor Scientific Supply,Office cleaning monthly service,,5,month,1214.31,USD,Germany
+ERP,ERP-00051,2025-04-06,Northstar Office Products,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,16.07,EUR,Germany
+ERP,ERP-00052,2025-10-09,Pinnacle Safety Equipment,Compact vehicle lease monthly,Fleet > Vehicle Leasing,10,month,385.62,GBP,Germany
+ERP,ERP-00053,2025-01-30,Vertex Technology Ltd,Compact vehicle lease monthly,Fleet > Vehicle Leasing,2,month,481.77,USD,France
+ERP,ERP-00054,2025-09-02,Harbor Scientific Supply,Pallet freight delivery,Logistics > Freight Services,1,shipment,163.84,EUR,France
+ERP,ERP-00055,2025-05-09,Global Freight Partners,Process improvement consultant,Professional Services > Consulting,1,day,897.41,GBP,Netherlands
+ERP,ERP-00056,2025-07-01,Pinnacle Safety Equipment,Protective safety glasses,Safety & Lab > Personal Protective Equipment,5,each,9.89,GBP,Ireland
+ERP,ERP-00057,2025-03-31,Vertex Technology Ltd,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.12,EUR,France
+ERP,ERP-00058,2025-03-18,Bluebird Facilities Group,Monitor 27 inch QHD,IT Hardware > Displays,1,each,213.4,EUR,Germany
+ERP,ERP-00059,2025-02-27,Acme Industrial Supplies,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,5,box,16.89,GBP,Germany
+ERP,ERP-00060,2025-07-11,Apex Packaging Europe,Business broadband connection,Telecom > Telecom Services,1,month,65.81,GBP,Netherlands
+ERP,ERP-00061,2025-05-21,Siemens AG,Pallet freight delivery,Logistics > Freight Services,3,shipment,173.62,EUR,Germany
+ERP,ERP-00062,2025-02-25,Harbor Scientific Supply,Corrugated shipping box medium,Logistics > Packaging,2,box,1.07,GBP,Ireland
+ERP,ERP-00063,2025-03-07,ACME,Project collaboration annual license,Software & Cloud > Software Licenses,5,license,136.7,USD,Netherlands
+ERP,ERP-00064,2025-05-28,Meridian Energy Services,Black toner cartridge,Office & MRO > Office Supplies,3,each,56.94,GBP,Netherlands
+ERP,ERP-00065,2025-02-12,Cedar Consulting Group,Pallet freight delivery,Logistics > Freight Services,1,shipment,193.71,USD,UK
+ERP,ERP-00066,2025-09-01,SUMMIT VL,Pallet freight delivery,Logistics > Freight Services,1,shipment,178.59,EUR,Germany
+ERP,ERP-00067,2025-03-06,Apex Packaging Europe,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,2,box,20.6,USD,Netherlands
+ERP,ERP-00068,2025-04-12,Cedar Consulting,Electric van lease monthly,Fleet > Vehicle Leasing,1,month,796.44,USD,Netherlands
+ERP,ERP-00069,2025-09-26,Pinnacle Safety Equipment,A4 copy paper case 5 reams,Office & MRO > Office Supplies,3,case,29.32,USD,UK
+ERP,ERP-00070,2025-05-11,Vertex Technology Ltd,Black toner cartridge,Office & MRO > Office Supplies,1,each,55.33,GBP,UK
+ERP,ERP-00071,2025-08-02,Acme Industrial Supplies,Process improvement consultant,,5,day,1178.48,USD,France
+ERP,ERP-00072,2025-06-29,Vertex Technology Ltd,Laptop dock USB-C,IT Hardware > Laptops,1,each,144.38,GBP,United States
+ERP,ERP-00073,2025-11-14,Summit Vehicle Leasing,USB-C headset,IT Hardware > Peripherals,1,each,85.59,USD,France
+ERP,ERP-00074,2025-11-13,Apex Packaging Europe,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,365.21,GBP,United States
+ERP,ERP-00075,2025-06-28,Global Freight Partners,Black toner cartridge,Office & MRO > Office Supplies,1,each,60.15,GBP,UK
+ERP,ERP-00076,2025-10-07,ORCHARD,Cloud compute usage,Software & Cloud > Cloud Services,2,hour,4.3,EUR,United States
+ERP,ERP-00077,2025-05-27,Cedar Consulting Group,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,16.31,EUR,France
+ERP,ERP-00078,2025-06-21,Apex Packaging Europe,Protective safety glasses,Safety & Lab > Personal Protective Equipment,10,each,11.66,EUR,UK
+ERP,ERP-00079,2025-04-09,Redwood Telecom Services,Laptop dock USB-C,IT Hardware > Laptops,2,each,168.95,EUR,UK
+ERP,ERP-00080,2025-12-02,Pinnacle Safety Equipment,USB-C headset,IT Hardware > Peripherals,3,each,79.15,EUR,Germany
+ERP,ERP-00081,2025-10-18,Northstar Office Products,Domestic parcel delivery,Logistics > Freight Services,1,shipment,28.76,USD,Netherlands
+ERP,ERP-00082,2025-10-10,Cedar Consulting Group,Pallet freight delivery,Logistics > Freight Services,1,shipment,140.98,GBP,Netherlands
+ERP,ERP-00083,2025-10-18,Redwood Telecom Services,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,40.25,USD,United States
+ERP,ERP-00084,2025-01-14,Global Freight Partners,Domestic parcel delivery,Logistics > Freight Services,2,shipment,21.0,GBP,UK
+ERP,ERP-00085,2025-10-29,Harbor Scientific Supply,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,18.21,USD,Germany
+ERP,ERP-00086,2025-09-25,Orchard Maintenance Co,Electricity supply usage,Facilities & Energy > Energy,1,MWh,104.25,GBP,Netherlands
+ERP,ERP-00087,2025-08-16,Apex Packaging Europe,Domestic parcel delivery,Logistics > Freight Services,1,shipment,25.87,EUR,France
+ERP,ERP-00088,2025-10-29,Apex Packaging Europe,Project collaboration annual license,Software & Cloud > Software Licenses,1,license,131.48,USD,Ireland
+ERP,ERP-00089,2025-07-18,Apex Packaging Europe,Pallet freight delivery,Logistics > Freight Services,1,shipment,183.93,USD,United States
+ERP,ERP-00090,2025-02-19,Meridian Energy Services,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,295.44,USD,Netherlands
+ERP,ERP-00091,2025-07-14,Orchard Maintenance Co,Electricity supply usage,Facilities & Energy > Energy,10,MWh,120.97,EUR,Germany
+ERP,ERP-00092,2025-04-22,Global Freight Partners,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,10,box,19.6,EUR,Netherlands
+ERP,ERP-00093,2025-05-05,Bluebird Facilities Group,Whiteboard marker pack 12,Office & MRO > Office Supplies,5,pack,11.2,GBP,Netherlands
+ERP,ERP-00094,2025-08-29,Redwood Telecom Services,Domestic parcel delivery,Logistics > Freight Services,1,shipment,29.6,USD,UK
+ERP,ERP-00095,2025-11-12,Redwood Telecom Services,A4 copy paper case 5 reams,Office & MRO > Office Supplies,2,case,23.09,GBP,United States
+ERP,ERP-00096,2025-01-11,Global Freight Partners,Industrial air filter medium,Office & MRO > Maintenance Supplies,2,each,40.66,EUR,Netherlands
+ERP,ERP-00097,2025-05-15,Orchard Maintenance Co,Pallet freight delivery,Logistics > Freight Services,10,shipment,167.0,EUR,Ireland
+ERP,ERP-00098,2025-07-29,Bluebird Facilities Group,Domestic parcel delivery,Logistics > Freight Services,5,shipment,26.67,EUR,United States
+ERP,ERP-00099,2025-08-01,Acme Industrial Supplies,USB-C adapter multiport,IT Hardware > Peripherals,1,each,37.94,USD,Ireland
+ERP,ERP-00100,2025-11-06,Pinnacle Safety Equipment,Industrial air filter medium,Office & MRO > Maintenance Supplies,10,each,41.06,USD,France
+ERP,ERP-00101,2025-05-06,Orchard Maintenance Co,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,46.86,EUR,Ireland
+ERP,ERP-00102,2025-03-06,Northstar Office Products,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,382.59,USD,France
+ERP,ERP-00103,2025-09-13,Cedar Consulting,Protective safety glasses,,2,each,11.58,USD,France
+ERP,ERP-00104,2025-04-01,Redwood Telecom Services,Business broadband connection,Telecom > Telecom Services,10,month,68.0,GBP,Netherlands
+ERP,ERP-00105,2025-12-22,Pinnacle PPE,Black toner cartridge,Office & MRO > Office Supplies,1,each,71.46,EUR,France
+ERP,ERP-00106,2025-01-22,Pinnacle Safety Equipment,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,2,visit,386.67,USD,UK
+ERP,ERP-00107,2025-10-07,Harbor Scientific Supply,Laptop dock USB-C,IT Hardware > Laptops,3,each,136.32,GBP,France
+ERP,ERP-00108,2025-08-14,Siemens AG,Black toner cartridge,Office & MRO > Office Supplies,1,each,59.52,GBP,Ireland
+ERP,ERP-00109,2025-08-19,Vertex Technology Ltd,Mobile voice and data plan,Telecom > Telecom Services,2,month,40.87,EUR,Germany
+ERP,ERP-00110,2025-12-28,Northstar Office Products,Pallet freight delivery,Logistics > Freight Services,1,shipment,178.86,USD,Ireland
+ERP,ERP-00111,2025-12-03,Vertex Technology Ltd,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,315.6,USD,France
+ERP,ERP-00112,2025-03-30,Northstar Office Products,Laptop dock USB-C,,10,each,138.59,GBP,United States
+ERP,ERP-00113,2025-07-08,Northstar Office Products,Business broadband connection,Telecom > Telecom Services,1,month,78.73,EUR,France
+ERP,ERP-00114,2025-07-11,Northstar Office Products,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,293.0,USD,France
+ERP,ERP-00115,2025-03-31,Apex Packaging Europe,Office cleaning monthly service,Facilities & Energy > Facilities Services,2,month,1111.09,EUR,UK
+ERP,ERP-00116,2025-04-27,Vertex Technology Ltd,A4 copy paper case 5 reams,Office & MRO > Office Supplies,3,case,30.96,USD,United States
+ERP,ERP-00117,2025-03-03,Vertex Technology Ltd,Business laptop 14 inch,,5,each,874.6,EUR,Ireland
+ERP,ERP-00118,2025-02-11,Orchard Maintenance Co,Project collaboration annual license,Software & Cloud > Software Licenses,2,license,102.97,GBP,France
+ERP,ERP-00119,2025-01-30,Pinnacle PPE,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,11.28,USD,Germany
+ERP,ERP-00120,2025-08-30,Meridian Energy Services,Cloud storage monthly subscription,Software & Cloud > Cloud Services,10,month,251.5,GBP,Germany
+ERP,ERP-00121,2025-08-01,Meridian Energy Services,Wireless keyboard and mouse set,IT Hardware > Peripherals,2,each,37.81,GBP,Ireland
+ERP,ERP-00122,2025-02-01,Orchard Maintenance Co,Stretch wrap roll clear,Logistics > Packaging,1,roll,18.55,EUR,UK
+ERP,ERP-00123,2025-03-05,Pinnacle Safety Equipment,Process improvement consultant,Professional Services > Consulting,1,day,959.74,GBP,Ireland
+ERP,ERP-00124,2025-05-24,CEDAR CG,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,12.17,USD,United States
+ERP,ERP-00125,2025-01-18,Apex Packaging Europe,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,14.18,GBP,France
+ERP,ERP-00126,2025-12-31,Northstar Office Products,Corrugated shipping box medium,Logistics > Packaging,10,box,1.05,GBP,France
+ERP,ERP-00127,2025-12-27,Meridian Energy,Project collaboration annual license,Software & Cloud > Software Licenses,1,license,145.18,USD,Germany
+ERP,ERP-00128,2025-01-10,Cedar Consulting Group,USB-C adapter multiport,IT Hardware > Peripherals,3,each,38.23,USD,Netherlands
+ERP,ERP-00129,2025-06-05,Global Freight Partners,Office cleaning monthly service,Facilities & Energy > Facilities Services,3,month,963.91,GBP,Germany
+ERP,ERP-00130,2025-02-15,Pinnacle Safety Equipment,Mobile voice and data plan,Telecom > Telecom Services,10,month,34.85,GBP,Germany
+ERP,ERP-00131,2025-12-23,Acme Industrial Supplies,USB-C headset,IT Hardware > Peripherals,1,each,78.4,EUR,France
+ERP,ERP-00132,2025-06-14,Harbor Scientific Supply,Whiteboard marker pack 12,Office & MRO > Office Supplies,10,pack,14.17,USD,UK
+ERP,ERP-00133,2025-03-31,Siemens AG,Stretch wrap roll clear,Logistics > Packaging,10,roll,15.0,GBP,Germany
+ERP,ERP-00134,2025-07-30,Global Freight Partners,Monitor 27 inch QHD,IT Hardware > Displays,1,each,252.67,USD,UK
+ERP,ERP-00135,2025-12-24,Bluebird Facilities Group,Electricity supply usage,Facilities & Energy > Energy,2,MWh,125.17,USD,France
+ERP,ERP-00136,2025-12-08,Northstar Office Products,Office cleaning monthly service,Facilities & Energy > Facilities Services,1,month,1171.84,EUR,Ireland
+ERP,ERP-00137,2025-04-27,Bluebird Facilities Group,Project collaboration annual license,Software & Cloud > Software Licenses,2,license,133.06,EUR,United States
+ERP,ERP-00138,2025-04-15,Cedar Consult.,Whiteboard marker pack 12,Office & MRO > Office Supplies,1,pack,10.87,GBP,Netherlands
+ERP,ERP-00139,2025-11-16,Pinnacle PPE,Black toner cartridge,Office & MRO > Office Supplies,1,each,66.78,EUR,France
+ERP,ERP-00140,2025-03-20,North Star Office,Electricity supply usage,,1,MWh,105.84,GBP,France
+ERP,ERP-00141,2025-02-24,Pinnacle Safety Equipment,Cloud compute usage,Software & Cloud > Cloud Services,5,hour,3.83,GBP,United States
+ERP,ERP-00142,2025-01-09,Acme Industrial Supplies,Mobile voice and data plan,Telecom > Telecom Services,2,month,35.9,GBP,France
+ERP,ERP-00143,2025-11-27,Orchard Maintenance Co,Data analytics consultant,Professional Services > Consulting,1,day,1121.03,EUR,Germany
+ERP,ERP-00144,2025-10-31,Orchard Maintenance Co,Mobile voice and data plan,Telecom > Telecom Services,1,month,32.69,GBP,France
+ERP,ERP-00145,2025-05-23,Acme Industrial Supplies,Electricity supply usage,Facilities & Energy > Energy,1,MWh,104.6,GBP,Ireland
+ERP,ERP-00146,2025-05-01,Vertex Technology Ltd,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,11.28,EUR,France
+ERP,ERP-00147,2025-07-13,Redwood Telecom Services,Data analytics consultant,Professional Services > Consulting,1,day,1236.59,EUR,United States
+ERP,ERP-00148,2025-06-09,Harbor Scientific Supply,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,3,box,21.45,USD,Ireland
+ERP,ERP-00149,2025-08-25,Apex Packaging Europe,Electricity supply usage,Facilities & Energy > Energy,1,MWh,122.21,EUR,Netherlands
+ERP,ERP-00150,2025-10-25,Cedar Consulting Group,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,10,visit,302.17,GBP,United States
+ERP,ERP-00151,2025-06-24,Siemens AG,Cloud compute usage,,1,hour,4.74,USD,United States
+ERP,ERP-00152,2025-06-12,Acme Industrial Supplies,Cloud storage monthly subscription,Software & Cloud > Cloud Services,3,month,238.76,GBP,Netherlands
+ERP,ERP-00153,2025-07-29,Pinnacle Safety Equipment,Domestic parcel delivery,Logistics > Freight Services,1,shipment,23.03,GBP,UK
+ERP,ERP-00154,2025-08-08,Siemens AG,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,306.9,GBP,France
+ERP,ERP-00155,2025-04-01,Global Freight Partners,Office cleaning monthly service,Facilities & Energy > Facilities Services,2,month,1016.07,GBP,UK
+ERP,ERP-00156,2025-05-27,Acme Industrial Supplies,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,37.82,GBP,Ireland
+ERP,ERP-00157,2025-10-24,Apex Packaging Europe,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,10.87,EUR,France
+ERP,ERP-00158,2025-01-22,Bluebird Facilities Group,Process improvement consultant,Professional Services > Consulting,10,day,927.14,GBP,Ireland
+ERP,ERP-00159,2025-08-30,Siemens AG,Electric van lease monthly,Fleet > Vehicle Leasing,1,month,708.07,EUR,UK
+ERP,ERP-00160,2025-07-22,Northstar Office Products,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,10,box,17.37,USD,Germany
+ERP,ERP-00161,2025-04-09,Summit Vehicle Leasing,Domestic parcel delivery,Logistics > Freight Services,10,shipment,23.25,GBP,Ireland
+ERP,ERP-00162,2025-12-05,Acme Industrial Supplies,Process improvement consultant,Professional Services > Consulting,10,day,1053.33,EUR,United States
+ERP,ERP-00163,2025-01-25,Redwood Telecom Services,Whiteboard marker pack 12,Office & MRO > Office Supplies,10,pack,12.3,EUR,United States
+ERP,ERP-00164,2025-07-12,Pinnacle Safety Equipment,Corrugated shipping box medium,Logistics > Packaging,1,box,1.41,USD,Netherlands
+ERP,ERP-00165,2025-05-29,Orchard Maintenance Co,Office cleaning monthly service,Facilities & Energy > Facilities Services,5,month,1165.46,EUR,Germany
+ERP,ERP-00166,2025-11-20,Redwood Telecom Services,Project collaboration annual license,Software & Cloud > Software Licenses,1,license,112.58,GBP,Germany
+ERP,ERP-00167,2025-06-25,Harbor Sci.,Business broadband connection,Telecom > Telecom Services,1,month,71.75,GBP,France
+ERP,ERP-00168,2025-08-29,Vertex Technology Ltd,Business laptop 14 inch,IT Hardware > Laptops,2,each,854.46,EUR,Ireland
+ERP,ERP-00169,2025-09-12,Orchard Maintenance Co,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,2,box,16.39,GBP,Ireland
+ERP,ERP-00170,2025-04-10,Pinnacle Equip.,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,369.82,EUR,United States
+ERP,ERP-00171,2025-03-10,Bluebird Facilities Group,Corrugated shipping box medium,Logistics > Packaging,1,box,1.11,GBP,UK
+ERP,ERP-00172,2025-01-08,Bluebird Facilities Group,Office cleaning monthly service,Facilities & Energy > Facilities Services,10,month,1092.26,EUR,United States
+ERP,ERP-00173,2025-09-25,Acme Industrial Supplies,Cloud compute usage,Software & Cloud > Cloud Services,10,hour,3.77,GBP,Ireland
+ERP,ERP-00174,2025-07-30,Northstar Office Products,Electricity supply usage,Facilities & Energy > Energy,1,MWh,123.95,EUR,UK
+ERP,ERP-00175,2025-12-11,Acme Supply Co,Stretch wrap roll clear,Logistics > Packaging,1,roll,16.91,EUR,UK
+ERP,ERP-00176,2025-10-14,BLUEBIRD,Black toner cartridge,Office & MRO > Office Supplies,1,each,57.4,GBP,Netherlands
+ERP,ERP-00177,2025-12-07,Redwood Telco,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,374.64,GBP,United States
+ERP,ERP-00178,2025-04-10,Meridian Energy Services,Business broadband connection,Telecom > Telecom Services,1,month,83.2,EUR,Ireland
+ERP,ERP-00179,2025-08-25,Bluebird Facilities Group,Compact vehicle lease monthly,Fleet > Vehicle Leasing,2,month,371.03,GBP,Germany
+ERP,ERP-00180,2025-03-03,Siemens AG,Industrial air filter medium,Office & MRO > Maintenance Supplies,5,each,36.76,EUR,UK
+ERP,ERP-00181,2025-03-03,ORCHARD,Cloud storage monthly subscription,Software & Cloud > Cloud Services,3,month,254.89,GBP,Netherlands
+ERP,ERP-00182,2025-01-30,MERIDIAN,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,365.28,GBP,France
+ERP,ERP-00183,2025-03-08,Siemens AG,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,10,visit,353.77,EUR,United States
+ERP,ERP-00184,2025-12-27,Northstar Office Products,Project collaboration annual license,Software & Cloud > Software Licenses,10,license,106.04,GBP,Germany
+ERP,ERP-00185,2025-08-30,Northstar Office Products,Monitor 27 inch QHD,IT Hardware > Displays,2,each,184.22,GBP,Germany
+ERP,ERP-00186,2025-12-17,Acme Industrial Supplies,Laptop dock USB-C,IT Hardware > Laptops,1,each,170.35,USD,Germany
+ERP,ERP-00187,2025-01-06,Redwood Telecom Services,Compact vehicle lease monthly,Fleet > Vehicle Leasing,5,month,354.59,GBP,UK
+ERP,ERP-00188,2025-04-11,Summit Vehicle Leasing,Data analytics consultant,Professional Services > Consulting,3,day,1001.2,GBP,Ireland
+ERP,ERP-00189,2025-08-24,Summit Vehicle Leasing,Mobile voice and data plan,Telecom > Telecom Services,1,month,40.43,EUR,Ireland
+ERP,ERP-00190,2025-01-26,Meridian Energy Services,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.93,USD,Netherlands
+ERP,ERP-00191,2025-07-20,Acme Industrial Supplies,Project collaboration annual license,Software & Cloud > Software Licenses,1,license,131.93,EUR,Germany
+ERP,ERP-00192,2025-03-21,VERTEX TECHNOLOGY,USB-C headset,IT Hardware > Peripherals,1,each,63.84,GBP,Ireland
+ERP,ERP-00193,2025-08-28,Global Freight Partners,Data analytics consultant,Professional Services > Consulting,10,day,1348.78,USD,UK
+ERP,ERP-00194,2025-09-09,Orchard Maintenance Co,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,10.66,EUR,UK
+ERP,ERP-00195,2025-01-06,Cedar Consulting Group,Data analytics consultant,Professional Services > Consulting,1,day,1208.9,EUR,Ireland
+ERP,ERP-00196,2025-07-03,Vertex Ltd.,Cloud storage monthly subscription,Software & Cloud > Cloud Services,2,month,252.26,GBP,United States
+ERP,ERP-00197,2025-12-02,Apex Packaging Europe,Stretch wrap roll clear,Logistics > Packaging,10,roll,15.58,GBP,Ireland
+ERP,ERP-00198,2025-02-17,Global Freight Partners,A4 copy paper case 5 reams,Office & MRO > Office Supplies,10,case,28.79,EUR,Netherlands
+ERP,ERP-00199,2025-08-22,Pinnacle Safety Equipment,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,29.72,USD,Netherlands
+ERP,ERP-00200,2025-12-06,Siemens AG,Pallet freight delivery,Logistics > Freight Services,2,shipment,162.4,EUR,Germany
+ERP,ERP-00201,2025-01-16,VERTEX TECHNOLOGY,PDF editor annual license,Software & Cloud > Software Licenses,1,license,101.7,USD,UK
+ERP,ERP-00202,2025-01-20,Cedar Consulting Group,Domestic parcel delivery,Logistics > Freight Services,2,shipment,22.47,GBP,France
+ERP,ERP-00203,2025-06-29,Harbor Scientific Supply,USB-C headset,IT Hardware > Peripherals,5,each,77.54,USD,Ireland
+ERP,ERP-00204,2025-01-23,Orchard Maintenance Co,Monitor 27 inch QHD,IT Hardware > Displays,1,each,232.95,EUR,Ireland
+ERP,ERP-00205,2025-07-03,Vertex Technology Ltd,Electricity supply usage,Facilities & Energy > Energy,1,MWh,123.52,EUR,Netherlands
+ERP,ERP-00206,2025-10-08,Summit Vehicle Leasing,USB-C adapter multiport,IT Hardware > Peripherals,5,each,30.26,GBP,Netherlands
+ERP,ERP-00207,2025-06-11,Meridian Energy Services,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,10,box,19.9,USD,UK
+ERP,ERP-00208,2025-05-17,Cedar Consulting Group,Pallet freight delivery,Logistics > Freight Services,1,shipment,181.13,EUR,France
+ERP,ERP-00209,2025-11-12,Redwood Telco,Cloud storage monthly subscription,Software & Cloud > Cloud Services,3,month,291.41,EUR,Ireland
+ERP,ERP-00210,2025-01-24,Cedar Consulting Group,Office cleaning monthly service,Facilities & Energy > Facilities Services,5,month,1041.45,GBP,United States
+ERP,ERP-00211,2025-06-13,Bluebird Facilities Group,Cloud compute usage,Software & Cloud > Cloud Services,10,hour,4.58,USD,United States
+ERP,ERP-00212,2025-09-06,Meridian Energy Services,Mobile voice and data plan,Telecom > Telecom Services,2,month,42.38,USD,UK
+ERP,ERP-00213,2025-12-19,Northstar Office Products,Black toner cartridge,Office & MRO > Office Supplies,5,each,71.09,EUR,Ireland
+ERP,ERP-00214,2025-05-09,Meridian Energy Services,Black toner cartridge,Office & MRO > Office Supplies,1,each,72.62,EUR,UK
+ERP,ERP-00215,2025-03-03,Bluebird Facilities Group,Monitor 27 inch QHD,IT Hardware > Displays,10,each,190.6,GBP,France
+ERP,ERP-00216,2025-07-24,Pinnacle Safety,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.74,USD,UK
+ERP,ERP-00217,2025-09-16,Summit Vehicle Leasing,Wireless keyboard and mouse set,IT Hardware > Peripherals,5,each,42.47,EUR,Ireland
+ERP,ERP-00218,2025-12-21,Pinnacle Safety Equipment,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,19.9,USD,UK
+ERP,ERP-00219,2025-12-06,Apex Packaging Europe,Business broadband connection,Telecom > Telecom Services,10,month,84.76,EUR,Germany
+ERP,ERP-00220,2025-10-20,Harbour Scientific,Business broadband connection,Telecom > Telecom Services,5,month,80.96,EUR,UK
+ERP,ERP-00221,2025-09-10,Redwood Telecom Services,A4 copy paper case 5 reams,Office & MRO > Office Supplies,2,case,23.09,GBP,United States
+ERP,ERP-00222,2025-04-19,Redwood Telecom Services,USB-C headset,IT Hardware > Peripherals,3,each,79.07,USD,France
+ERP,ERP-00223,2025-02-11,Cedar Consulting Group,Laptop dock USB-C,IT Hardware > Laptops,3,each,157.89,EUR,UK
+ERP,ERP-00224,2025-05-17,Vertex Technology Ltd,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,289.78,GBP,France
+ERP,ERP-00225,2025-06-20,Summit Vehicle Leasing,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,380.71,GBP,France
+ERP,ERP-00226,2025-10-24,Cedar Consulting Group,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,16.0,GBP,UK
+ERP,ERP-00227,2025-08-07,Siemens GmbH,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,2,box,16.94,USD,Netherlands
+ERP,ERP-00228,2025-03-09,Redwood Telecom Services,A4 copy paper case 5 reams,Office & MRO > Office Supplies,3,case,30.3,EUR,United States
+ERP,ERP-00229,2025-09-25,Meridian Energy Services,Laptop dock USB-C,IT Hardware > Laptops,3,each,144.76,GBP,UK
+ERP,ERP-00230,2025-05-09,Acme Industrial Supplies,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,16.66,GBP,UK
+ERP,ERP-00231,2025-08-03,Global Freight Partners,Pallet freight delivery,Logistics > Freight Services,1,shipment,153.82,GBP,Ireland
+ERP,ERP-00232,2025-07-08,Vertex Technology Ltd,Data analytics consultant,Professional Services > Consulting,3,day,1009.32,GBP,France
+ERP,ERP-00233,2025-05-03,Orchard Maintenance Co,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,46.37,EUR,France
+ERP,ERP-00234,2025-10-18,Pinnacle Safety Equipment,Business broadband connection,Telecom > Telecom Services,3,month,89.6,USD,Germany
+ERP,ERP-00235,2025-07-08,Acme Industrial Supplies,Data analytics consultant,Professional Services > Consulting,10,day,976.05,GBP,Netherlands
+ERP,ERP-00236,2025-12-17,Redwood Telco,Mobile voice and data plan,Telecom > Telecom Services,1,month,36.58,GBP,Ireland
+ERP,ERP-00237,2025-05-04,Siemens GmbH,A4 copy paper case 5 reams,Office & MRO > Office Supplies,3,case,24.9,GBP,Germany
+ERP,ERP-00238,2025-10-25,Redwood Telco,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,30.18,EUR,Netherlands
+ERP,ERP-00239,2025-06-05,Apex Packaging Europe,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,10,box,19.54,EUR,Ireland
+ERP,ERP-00240,2025-06-19,Pinnacle Safety,Pallet freight delivery,Logistics > Freight Services,10,shipment,137.34,GBP,UK
+ERP,ERP-00241,2025-10-27,Siemens AG,Business broadband connection,Telecom > Telecom Services,1,month,84.49,USD,Germany
+ERP,ERP-00242,2025-10-01,Orchard Maintenance Co,Laptop dock USB-C,IT Hardware > Laptops,1,each,139.56,GBP,UK
+ERP,ERP-00243,2025-10-15,Northstar Office Products,Mobile voice and data plan,Telecom > Telecom Services,2,month,43.56,USD,United States
+ERP,ERP-00244,2025-10-20,Pinnacle Safety Equipment,Data analytics consultant,Professional Services > Consulting,1,day,1212.4,USD,France
+ERP,ERP-00245,2025-08-30,Meridian Energy Services,Pallet freight delivery,Logistics > Freight Services,1,shipment,175.58,EUR,Germany
+ERP,ERP-00246,2025-01-13,Pinnacle Equip.,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,405.11,EUR,United States
+ERP,ERP-00247,2025-05-26,Orchard Maintenance Co,USB-C headset,IT Hardware > Peripherals,5,each,79.87,EUR,Netherlands
+ERP,ERP-00248,2025-12-28,Orchard Maintenance Co,Laptop dock USB-C,IT Hardware > Laptops,3,each,137.3,GBP,France
+ERP,ERP-00249,2025-08-04,Siemens AG,Project collaboration annual license,Software & Cloud > Software Licenses,3,license,142.78,USD,France
+ERP,ERP-00250,2025-02-27,Meridian Energy Services,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,47.89,USD,Germany
+ERP,ERP-00251,2025-01-20,Northstar Office Products,Process improvement consultant,Professional Services > Consulting,1,day,1199.0,USD,United States
+ERP,ERP-00252,2025-05-26,Summit Vehicle Leasing,Compact vehicle lease monthly,Fleet > Vehicle Leasing,2,month,384.65,GBP,UK
+ERP,ERP-00253,2025-05-07,Summit Vehicle Leasing,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,398.29,USD,United States
+ERP,ERP-00254,2025-07-15,Summit Vehicle Leasing,Pallet freight delivery,Logistics > Freight Services,5,shipment,175.15,EUR,Germany
+ERP,ERP-00255,2025-12-14,Global Freight,A4 copy paper case 5 reams,Office & MRO > Office Supplies,5,case,23.44,GBP,Germany
+ERP,ERP-00256,2025-03-05,Redwood Telecom Services,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,16.76,GBP,UK
+ERP,ERP-00257,2025-08-02,Pinnacle Safety Equipment,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,305.05,USD,Ireland
+ERP,ERP-00258,2025-05-14,Cedar Consulting Group,Black toner cartridge,Office & MRO > Office Supplies,1,each,72.6,EUR,United States
+ERP,ERP-00259,2025-08-18,Harbor Scientific Supply,Data analytics consultant,Professional Services > Consulting,5,day,1134.89,EUR,Ireland
+ERP,ERP-00260,2025-11-06,Summit Vehicle Leasing,USB-C adapter multiport,IT Hardware > Peripherals,1,each,37.44,EUR,United States
+ERP,ERP-00261,2025-11-24,Summit Vehicle Leasing,Domestic parcel delivery,Logistics > Freight Services,1,shipment,28.52,USD,UK
+ERP,ERP-00262,2025-09-30,Global Freight Partners,Monitor 27 inch QHD,IT Hardware > Displays,1,each,258.38,USD,Ireland
+ERP,ERP-00263,2025-09-24,Cedar Consulting Group,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,42.39,USD,UK
+ERP,ERP-00264,2025-03-11,Summit Vehicle Leasing,Wireless keyboard and mouse set,IT Hardware > Peripherals,10,each,46.9,USD,Germany
+ERP,ERP-00265,2025-01-20,Northstar Office Products,Business laptop 14 inch,IT Hardware > Laptops,1,each,959.49,USD,UK
+ERP,ERP-00266,2025-10-26,Northstar Office Products,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,18.96,USD,France
+ERP,ERP-00267,2025-10-26,Pinnacle Equip.,Cloud storage monthly subscription,,5,month,272.69,EUR,France
+ERP,ERP-00268,2025-12-04,Orchard Maintenance Co,Domestic parcel delivery,Logistics > Freight Services,1,shipment,29.18,USD,UK
+ERP,ERP-00269,2025-01-02,Meridian Energy Services,Pallet freight delivery,Logistics > Freight Services,2,shipment,146.41,GBP,UK
+ERP,ERP-00270,2025-03-28,Bluebird Facilities Group,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,36.79,GBP,France
+ERP,ERP-00271,2025-04-13,Summit Vehicle Leasing,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,33.46,GBP,Ireland
+ERP,ERP-00272,2025-09-21,Cedar Consulting Group,Whiteboard marker pack 12,Office & MRO > Office Supplies,1,pack,10.9,GBP,United States
+ERP,ERP-00273,2025-12-29,Northstar Office Products,Whiteboard marker pack 12,Office & MRO > Office Supplies,10,pack,10.38,GBP,United States
+ERP,ERP-00274,2025-06-19,Orchard Maintenance Co,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,2,box,21.71,USD,France
+ERP,ERP-00275,2025-11-22,Siemens AG,Stretch wrap roll clear,Logistics > Packaging,1,roll,17.1,EUR,UK
+ERP,ERP-00276,2025-05-09,Cedar Consulting Group,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,43.99,USD,United States
+ERP,ERP-00277,2025-09-02,Apex Packaging Europe,Business broadband connection,Telecom > Telecom Services,5,month,90.29,USD,United States
+ERP,ERP-00278,2025-07-31,Apex Packaging Europe,Office cleaning monthly service,,10,month,973.23,GBP,France
+ERP,ERP-00279,2025-04-01,Acme Industrial Supplies,Cloud compute usage,Software & Cloud > Cloud Services,1,hour,4.51,EUR,United States
+ERP,ERP-00280,2025-03-26,Harbor Scientific Supply,Corrugated shipping box medium,Logistics > Packaging,3,box,1.36,USD,Netherlands
+ERP,ERP-00281,2025-12-30,Redwood Telecom Services,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,23.09,GBP,Germany
+ERP,ERP-00282,2025-05-28,Harbor Scientific Supply,A4 copy paper case 5 reams,Office & MRO > Office Supplies,10,case,23.94,GBP,Ireland
+ERP,ERP-00283,2025-06-02,Redwood Telecom Services,Business broadband connection,Telecom > Telecom Services,1,month,77.84,EUR,United States
+ERP,ERP-00284,2025-09-04,Vertex Technology Ltd,Office cleaning monthly service,Facilities & Energy > Facilities Services,1,month,1209.45,USD,Ireland
+ERP,ERP-00285,2025-08-19,Global Freight,Data analytics consultant,Professional Services > Consulting,1,day,975.6,GBP,Germany
+ERP,ERP-00286,2025-11-01,Summit Vehicle Leasing,Business laptop 14 inch,,1,each,749.48,GBP,UK
+ERP,ERP-00287,2025-10-17,Global Freight Partners,Stretch wrap roll clear,Logistics > Packaging,1,roll,18.5,USD,France
+ERP,ERP-00288,2025-05-10,Redwood Telecom Services,Mobile voice and data plan,Telecom > Telecom Services,10,month,32.95,GBP,France
+ERP,ERP-00289,2025-10-18,Vertex Technology Ltd,Project collaboration annual license,Software & Cloud > Software Licenses,2,license,136.69,USD,United States
+ERP,ERP-00290,2025-01-30,Vertex Technology Ltd,Project collaboration annual license,Software & Cloud > Software Licenses,5,license,141.15,USD,Germany
+ERP,ERP-00291,2025-09-26,Redwood Telecom Services,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,2,visit,352.33,EUR,Netherlands
+ERP,ERP-00292,2025-08-10,Orchard Maintenance Co,Data analytics consultant,Professional Services > Consulting,1,day,1217.98,EUR,France
+ERP,ERP-00293,2025-06-28,Apex Packaging Europe,Black toner cartridge,Office & MRO > Office Supplies,1,each,59.58,GBP,Germany
+ERP,ERP-00294,2025-07-10,Siemens AG,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,2,box,16.67,GBP,Ireland
+ERP,ERP-00295,2025-11-23,Harbor Scientific Supply,Compact vehicle lease monthly,Fleet > Vehicle Leasing,5,month,448.29,USD,UK
+ERP,ERP-00296,2025-01-24,Cedar Consulting Group,PDF editor annual license,Software & Cloud > Software Licenses,1,license,77.3,GBP,Ireland
+ERP,ERP-00297,2025-12-05,Siemens AG,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,2,visit,324.18,GBP,France
+ERP,ERP-00298,2025-04-22,Acme Industrial Supplies,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,2,visit,382.27,EUR,Ireland
+ERP,ERP-00299,2025-01-16,Acme Industrial Supplies,PDF editor annual license,Software & Cloud > Software Licenses,10,license,83.76,EUR,France
+ERP,ERP-00300,2025-08-21,REDWOOD,Cloud storage monthly subscription,Software & Cloud > Cloud Services,10,month,316.1,USD,UK
+ERP,ERP-00301,2025-12-12,Pinnacle Safety Equipment,Cloud compute usage,Software & Cloud > Cloud Services,2,hour,3.67,GBP,United States
+ERP,ERP-00302,2025-05-03,Northstar Office Products,USB-C headset,IT Hardware > Peripherals,10,each,75.84,EUR,Germany
+ERP,ERP-00303,2025-11-03,ACME,Protective safety glasses,Safety & Lab > Personal Protective Equipment,3,each,11.86,USD,Netherlands
+ERP,ERP-00304,2025-07-19,Pinnacle Safety Equipment,Process improvement consultant,Professional Services > Consulting,10,day,856.71,GBP,Ireland
+ERP,ERP-00305,2025-05-07,Acme Industrial Supplies,USB-C adapter multiport,IT Hardware > Peripherals,1,each,38.08,EUR,United States
+ERP,ERP-00306,2025-10-11,Apex Packaging Europe,USB-C headset,IT Hardware > Peripherals,10,each,64.69,GBP,UK
+ERP,ERP-00307,2025-11-26,Pinnacle Safety Equipment,A4 copy paper case 5 reams,Office & MRO > Office Supplies,2,case,29.72,EUR,United States
+ERP,ERP-00308,2025-03-20,Bluebird Facilities Group,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,289.06,EUR,UK
+ERP,ERP-00309,2025-08-21,Siemens AG,Compact vehicle lease monthly,Fleet > Vehicle Leasing,3,month,450.08,USD,Germany
+ERP,ERP-00310,2025-02-15,Apex Packaging Europe,Business broadband connection,Telecom > Telecom Services,1,month,86.6,USD,Ireland
+ERP,ERP-00311,2025-12-31,Vertex Technology Ltd,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,23.03,GBP,Ireland
+ERP,ERP-00312,2025-10-05,Northstar Office Products,USB-C adapter multiport,IT Hardware > Peripherals,1,each,37.57,EUR,France
+ERP,ERP-00313,2025-05-25,Acme Industrial Supplies,Stretch wrap roll clear,Logistics > Packaging,1,roll,17.91,EUR,UK
+ERP,ERP-00314,2025-07-12,Bluebird Facilities Group,Project collaboration annual license,Software & Cloud > Software Licenses,10,license,122.39,EUR,Netherlands
+ERP,ERP-00315,2025-12-31,Acme Industrial Supplies,Monitor 27 inch QHD,IT Hardware > Displays,1,each,192.09,GBP,Netherlands
+ERP,ERP-00316,2025-09-09,Apex Packaging Europe,Corrugated shipping box medium,Logistics > Packaging,3,box,1.07,GBP,Germany
+ERP,ERP-00317,2025-09-26,Meridian Energy Services,Electricity supply usage,Facilities & Energy > Energy,3,MWh,132.86,USD,Ireland
+ERP,ERP-00318,2025-02-01,Meridian Energy Services,Wireless keyboard and mouse set,IT Hardware > Peripherals,5,each,46.86,EUR,Ireland
+ERP,ERP-00319,2025-09-25,Bluebird Facilities Group,Business laptop 14 inch,IT Hardware > Laptops,1,each,695.88,GBP,United States
+ERP,ERP-00320,2025-11-16,Northstar Office Products,Mobile voice and data plan,Telecom > Telecom Services,3,month,38.65,EUR,UK
+ERP,ERP-00321,2025-11-20,Global Freight Partners,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,11.95,USD,Germany
+ERP,ERP-00322,2025-09-15,Redwood Telecom Services,Electric van lease monthly,Fleet > Vehicle Leasing,3,month,612.9,GBP,France
+ERP,ERP-00323,2025-11-21,Cedar Consulting Group,Mobile voice and data plan,Telecom > Telecom Services,3,month,45.98,USD,United States
+ERP,ERP-00324,2025-09-25,Global Freight Partners,Wireless keyboard and mouse set,IT Hardware > Peripherals,10,each,36.06,GBP,Ireland
+ERP,ERP-00325,2025-01-05,Summit Leasing,Wireless keyboard and mouse set,IT Hardware > Peripherals,5,each,40.0,GBP,France
+ERP,ERP-00326,2025-04-21,Cedar Consulting Group,USB-C headset,,2,each,81.93,USD,United States
+ERP,ERP-00327,2025-05-28,Northstar Office Products,Pallet freight delivery,Logistics > Freight Services,1,shipment,170.86,EUR,Netherlands
+ERP,ERP-00328,2025-07-22,Bluebird Facilities Group,Office cleaning monthly service,Facilities & Energy > Facilities Services,3,month,1180.66,EUR,UK
+ERP,ERP-00329,2025-04-23,Apex Packaging Europe,Cloud compute usage,Software & Cloud > Cloud Services,5,hour,3.99,GBP,Ireland
+ERP,ERP-00330,2025-03-10,ACME Ind.,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,426.45,EUR,France
+ERP,ERP-00331,2025-07-05,Bluebird Facilities Group,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,14.89,GBP,Netherlands
+ERP,ERP-00332,2025-05-22,Global Freight Partners,Process improvement consultant,Professional Services > Consulting,1,day,1151.47,USD,France
+ERP,ERP-00333,2025-09-01,Pinnacle Safety Equipment,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,10,box,18.57,EUR,France
+ERP,ERP-00334,2025-12-21,Apex Packaging Europe,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,42.32,USD,France
+ERP,ERP-00335,2025-09-29,Siemens AG,Business laptop 14 inch,IT Hardware > Laptops,1,each,882.34,EUR,Netherlands
+ERP,ERP-00336,2025-11-09,Siem. AG,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,5,box,20.54,USD,France
+ERP,ERP-00337,2025-01-23,Orchard Maintenance Co,USB-C headset,IT Hardware > Peripherals,3,each,73.05,EUR,UK
+ERP,ERP-00338,2025-09-07,Redwood Telco,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,23.73,GBP,France
+ERP,ERP-00339,2025-11-04,CEDAR CG,Office cleaning monthly service,Facilities & Energy > Facilities Services,10,month,1179.94,EUR,France
+ERP,ERP-00340,2025-06-28,Cedar Consulting Group,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,40.84,USD,Netherlands
+ERP,ERP-00341,2025-03-13,North Star Office,Process improvement consultant,Professional Services > Consulting,2,day,1128.57,USD,Ireland
+ERP,ERP-00342,2025-12-30,Harbor Scientific Supply,Mobile voice and data plan,Telecom > Telecom Services,3,month,33.92,GBP,France
+ERP,ERP-00343,2025-05-15,Pinnacle Equip.,Business broadband connection,Telecom > Telecom Services,5,month,78.83,EUR,Ireland
+ERP,ERP-00344,2025-09-13,HSS,Protective safety glasses,Safety & Lab > Personal Protective Equipment,10,each,9.81,GBP,UK
+ERP,ERP-00345,2025-02-28,Orchard Maintenance Co,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,5,box,18.07,USD,France
+ERP,ERP-00346,2025-03-05,Pinnacle Safety Equipment,Electricity supply usage,Facilities & Energy > Energy,3,MWh,129.41,USD,France
+ERP,ERP-00347,2025-04-15,Pinnacle Safety Equipment,USB-C headset,,5,each,75.14,EUR,France
+ERP,ERP-00348,2025-06-02,Bluebird Facilities Group,USB-C headset,IT Hardware > Peripherals,1,each,79.13,EUR,Netherlands
+ERP,ERP-00349,2025-11-24,Summit Vehicle Leasing,Data analytics consultant,Professional Services > Consulting,1,day,1283.07,USD,Germany
+ERP,ERP-00350,2025-04-19,Vertex Technology Ltd,Cloud compute usage,Software & Cloud > Cloud Services,2,hour,3.78,GBP,Netherlands
+ERP,ERP-00351,2025-02-15,Meridian Energy Services,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,39.61,GBP,France
+ERP,ERP-00352,2025-11-09,Summit Vehicle Leasing,Business broadband connection,Telecom > Telecom Services,3,month,80.44,EUR,France
+ERP,ERP-00353,2025-11-22,Cedar Consulting Group,Electric van lease monthly,Fleet > Vehicle Leasing,1,month,621.86,GBP,Germany
+ERP,ERP-00354,2025-11-13,Pinnacle Safety,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,322.91,USD,UK
+ERP,ERP-00355,2025-10-12,Meridian Energy Services,Business broadband connection,Telecom > Telecom Services,10,month,76.73,EUR,United States
+ERP,ERP-00356,2025-03-10,Summit Vehicle Leasing,Electricity supply usage,Facilities & Energy > Energy,1,MWh,129.44,USD,Germany
+ERP,ERP-00357,2025-10-06,Vertex Technology Ltd,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,43.12,EUR,Ireland
+ERP,ERP-00358,2025-12-25,Global Freight Partners,Business broadband connection,Telecom > Telecom Services,2,month,82.79,EUR,Ireland
+ERP,ERP-00359,2025-03-29,Global Freight Partners,PDF editor annual license,Software & Cloud > Software Licenses,1,license,92.44,EUR,France
+ERP,ERP-00360,2025-11-20,Apex Packaging Europe,Domestic parcel delivery,Logistics > Freight Services,1,shipment,26.45,EUR,Germany
+ERP,ERP-00361,2025-10-18,Cedar Consulting Group,Office cleaning monthly service,Facilities & Energy > Facilities Services,2,month,1150.08,EUR,United States
+ERP,ERP-00362,2025-12-25,Harbor Scientific Supply,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,24.6,GBP,UK
+ERP,ERP-00363,2025-04-25,Cedar Consulting Group,Data analytics consultant,Professional Services > Consulting,2,day,1330.2,USD,Ireland
+ERP,ERP-00364,2025-05-30,Siemens AG,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,319.97,GBP,Germany
+ERP,ERP-00365,2025-09-02,Meridian Energy Services,Electricity supply usage,Facilities & Energy > Energy,1,MWh,99.56,GBP,Germany
+ERP,ERP-00366,2025-09-27,Meridian Energy Services,Data analytics consultant,Professional Services > Consulting,10,day,1225.98,EUR,Ireland
+ERP,ERP-00367,2025-11-26,Summit Vehicle Leasing,PDF editor annual license,,10,license,89.07,EUR,UK
+ERP,ERP-00368,2025-10-29,Vertex Technology Ltd,Domestic parcel delivery,Logistics > Freight Services,1,shipment,26.92,EUR,Ireland
+ERP,ERP-00369,2025-11-22,Apex Packaging Europe,Pallet freight delivery,Logistics > Freight Services,5,shipment,188.71,USD,France
+ERP,ERP-00370,2025-11-21,Vertex Technology Ltd,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,41.15,USD,France
+ERP,ERP-00371,2025-08-21,Cedar Consulting Group,Electricity supply usage,Facilities & Energy > Energy,3,MWh,132.53,USD,United States
+ERP,ERP-00372,2025-05-11,Vertex Technology Ltd,Pallet freight delivery,Logistics > Freight Services,5,shipment,177.12,EUR,Netherlands
+ERP,ERP-00373,2025-11-14,Cedar Consulting Group,USB-C headset,IT Hardware > Peripherals,3,each,82.44,USD,UK
+ERP,ERP-00374,2025-09-17,Global Freight Partners,Electric van lease monthly,Fleet > Vehicle Leasing,3,month,752.67,USD,France
+ERP,ERP-00375,2025-10-06,Apex Packaging Europe,Pallet freight delivery,Logistics > Freight Services,3,shipment,180.29,EUR,France
+ERP,ERP-00376,2025-03-01,Pinnacle Safety Equipment,Business broadband connection,Telecom > Telecom Services,1,month,84.27,EUR,Germany
+ERP,ERP-00377,2025-12-25,Redwood Telecom Services,Whiteboard marker pack 12,Office & MRO > Office Supplies,10,pack,11.26,GBP,UK
+ERP,ERP-00378,2025-01-15,Apex Packaging Europe,Cloud storage monthly subscription,Software & Cloud > Cloud Services,10,month,295.92,EUR,Netherlands
+ERP,ERP-00379,2025-07-17,Bluebird Facilities Group,Domestic parcel delivery,Logistics > Freight Services,1,shipment,27.6,USD,UK
+ERP,ERP-00380,2025-01-19,Redwood Telecom Services,Business broadband connection,Telecom > Telecom Services,1,month,70.86,GBP,Germany
+ERP,ERP-00381,2025-07-24,Vertex Technology Ltd,Laptop dock USB-C,IT Hardware > Laptops,1,each,138.98,GBP,Ireland
+ERP,ERP-00382,2025-04-30,BLUEBIRD,Laptop dock USB-C,IT Hardware > Laptops,1,each,165.19,USD,Ireland
+ERP,ERP-00383,2025-05-12,Orchard Maintenance Co,Protective safety glasses,Safety & Lab > Personal Protective Equipment,3,each,12.28,USD,Ireland
+ERP,ERP-00384,2025-11-01,ACME Ind.,Wireless keyboard and mouse set,IT Hardware > Peripherals,3,each,44.54,EUR,Netherlands
+ERP,ERP-00385,2025-08-26,Meridian Energy Services,Project collaboration annual license,Software & Cloud > Software Licenses,1,license,134.46,EUR,United States
+ERP,ERP-00386,2025-11-25,Summit Vehicle Leasing,Electricity supply usage,Facilities & Energy > Energy,5,MWh,136.77,USD,Netherlands
+ERP,ERP-00387,2025-08-24,Global Freight Partners,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,1,visit,348.75,EUR,France
+ERP,ERP-00388,2025-03-01,Vertex Tech,Wireless keyboard and mouse set,,10,each,35.65,GBP,Germany
+ERP,ERP-00389,2025-07-21,Summit Vehicle Leasing,Cloud compute usage,Software & Cloud > Cloud Services,1,hour,4.89,USD,Germany
+ERP,ERP-00390,2025-07-31,REDWOOD,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,3,visit,404.09,USD,UK
+ERP,ERP-00391,2025-08-21,Cedar Consulting Group,Pallet freight delivery,Logistics > Freight Services,5,shipment,178.93,USD,United States
+ERP,ERP-00392,2025-10-20,Redwood Telecom Services,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,5,visit,301.97,GBP,Ireland
+ERP,ERP-00393,2025-09-19,Acme Industrial Supplies,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,3,box,21.44,USD,Netherlands
+ERP,ERP-00394,2025-08-24,Redwood Telecom Services,PDF editor annual license,Software & Cloud > Software Licenses,1,license,98.69,USD,UK
+ERP,ERP-00395,2025-09-22,Northstar Office Products,Whiteboard marker pack 12,Office & MRO > Office Supplies,2,pack,13.58,USD,Ireland
+ERP,ERP-00396,2025-10-01,Global Freight Partners,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,5,visit,318.89,GBP,France
+ERP,ERP-00397,2025-01-13,Redwood Telecom Services,Protective safety glasses,,5,each,9.17,GBP,United States
+ERP,ERP-00398,2025-12-06,Apex Packaging Europe,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,10,visit,348.62,EUR,Germany
+ERP,ERP-00399,2025-07-14,Global Freight Partners,Laptop dock USB-C,IT Hardware > Laptops,2,each,164.63,EUR,Germany
+ERP,ERP-00400,2025-10-20,Apex Packaging Europe,Wireless keyboard and mouse set,IT Hardware > Peripherals,5,each,41.85,EUR,United States
+ERP,ERP-00401,2025-02-09,Harbor Scientific Supply,Wireless keyboard and mouse set,IT Hardware > Peripherals,2,each,47.95,USD,UK
+ERP,ERP-00402,2025-01-02,Acme Industrial Supplies,Monitor 27 inch QHD,IT Hardware > Displays,2,each,199.47,GBP,Ireland
+ERP,ERP-00403,2025-03-04,Apex Packaging Europe,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,2,box,14.47,GBP,UK
+ERP,ERP-00404,2025-07-07,Northstar Office Products,Stretch wrap roll clear,Logistics > Packaging,1,roll,19.56,USD,Netherlands
+ERP,ERP-00405,2025-03-28,Meridian Energy,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,13.8,GBP,UK
+ERP,ERP-00406,2025-01-15,Harbor Scientific Supply,Corrugated shipping box medium,Logistics > Packaging,2,box,1.27,EUR,United States
+ERP,ERP-00407,2025-03-16,Siemens AG,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,3,box,18.39,EUR,Ireland
+ERP,ERP-00408,2025-05-14,Acme Industrial Supplies,Compact vehicle lease monthly,Fleet > Vehicle Leasing,3,month,432.29,EUR,Netherlands
+ERP,ERP-00409,2025-01-03,Pinnacle Safety,Wireless keyboard and mouse set,IT Hardware > Peripherals,1,each,39.58,GBP,United States
+ERP,ERP-00410,2025-04-18,Redwood Telecom Services,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,440.93,USD,France
+ERP,ERP-00411,2025-10-17,Global Freight Partners,USB-C headset,IT Hardware > Peripherals,5,each,79.55,EUR,Germany
+ERP,ERP-00412,2025-10-28,Summit Vehicle Leasing,Mobile voice and data plan,Telecom > Telecom Services,10,month,45.86,USD,Germany
+ERP,ERP-00413,2025-11-17,Acme Industrial Supplies,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,2,box,16.89,GBP,United States
+ERP,ERP-00414,2025-07-13,Bluebird Facilities Group,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,36.95,EUR,Ireland
+ERP,ERP-00415,2025-11-16,Harbor Scientific Supply,Industrial air filter medium,Office & MRO > Maintenance Supplies,1,each,38.84,EUR,United States
+ERP,ERP-00416,2025-01-17,Vertex Technology Ltd,Corrugated shipping box medium,Logistics > Packaging,5,box,1.35,USD,Ireland
+ERP,ERP-00417,2025-12-13,Siemens AG,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,19.98,USD,Netherlands
+ERP,ERP-00418,2025-02-27,Siemens GmbH,Business broadband connection,Telecom > Telecom Services,10,month,72.91,GBP,Netherlands
+ERP,ERP-00419,2025-08-29,Apex Packaging Europe,Protective safety glasses,,5,each,12.14,USD,United States
+ERP,ERP-00420,2025-04-14,Siemens AG,Whiteboard marker pack 12,Office & MRO > Office Supplies,1,pack,13.4,USD,Germany
+ERP,ERP-00421,2025-01-09,Vertex Technology Ltd,Compact vehicle lease monthly,Fleet > Vehicle Leasing,2,month,447.95,USD,UK
+ERP,ERP-00422,2025-12-30,Orchard Maintenance Co,Industrial air filter medium,Office & MRO > Maintenance Supplies,2,each,36.79,EUR,Ireland
+ERP,ERP-00423,2025-03-30,Acme Industrial Supplies,Whiteboard marker pack 12,Office & MRO > Office Supplies,10,pack,13.47,USD,Germany
+ERP,ERP-00424,2025-02-03,Pinnacle Safety Equipment,Mobile voice and data plan,Telecom > Telecom Services,1,month,32.6,GBP,Netherlands
+ERP,ERP-00425,2025-01-04,Harbor Scientific Supply,Black toner cartridge,,2,each,57.95,GBP,Germany
+ERP,ERP-00426,2025-07-23,Vertex Technology Ltd,Monitor 27 inch QHD,IT Hardware > Displays,1,each,229.8,EUR,UK
+ERP,ERP-00427,2025-10-18,Cedar Consulting Group,Monitor 27 inch QHD,IT Hardware > Displays,1,each,199.0,GBP,Ireland
+ERP,ERP-00428,2025-01-27,Apex Packaging Europe,Business broadband connection,Telecom > Telecom Services,10,month,90.42,USD,Ireland
+ERP,ERP-00429,2025-04-24,Vertex Technology Ltd,USB-C headset,IT Hardware > Peripherals,2,each,78.26,EUR,France
+ERP,ERP-00430,2025-12-08,Northstar Office Products,Electric van lease monthly,Fleet > Vehicle Leasing,10,month,754.47,EUR,Netherlands
+ERP,ERP-00431,2025-01-17,Cedar Consulting Group,Electric van lease monthly,Fleet > Vehicle Leasing,10,month,766.15,USD,Germany
+ERP,ERP-00432,2025-08-28,Cedar Consulting Group,Data analytics consultant,,5,day,1017.39,GBP,Ireland
+ERP,ERP-00433,2025-05-27,ORCHARD,USB-C headset,IT Hardware > Peripherals,1,each,75.55,EUR,United States
+ERP,ERP-00434,2025-06-21,Acme Industrial Supplies,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,3,box,16.73,GBP,Germany
+ERP,ERP-00435,2025-08-28,Orchard Maintenance Co,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,441.66,USD,Germany
+ERP,ERP-00436,2025-04-30,Summit Vehicle Leasing,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.25,USD,Netherlands
+ERP,ERP-00437,2025-08-19,Vertex Technology Ltd,Office cleaning monthly service,Facilities & Energy > Facilities Services,3,month,1149.33,EUR,United States
+ERP,ERP-00438,2025-01-25,Cedar Consulting Group,Electricity supply usage,Facilities & Energy > Energy,10,MWh,116.42,EUR,Germany
+ERP,ERP-00439,2025-09-09,Harbor Scientific Supply,Whiteboard marker pack 12,Office & MRO > Office Supplies,1,pack,10.84,GBP,United States
+ERP,ERP-00440,2025-03-05,Acme Industrial Supplies,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,9.67,GBP,Germany
+ERP,ERP-00441,2025-12-06,Apex Packaging Europe,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,3,box,18.15,USD,Netherlands
+ERP,ERP-00442,2025-10-24,Redwood Telecom Services,Monitor 27 inch QHD,IT Hardware > Displays,3,each,230.4,USD,United States
+ERP,ERP-00443,2025-01-02,Meridian Energy Services,PDF editor annual license,Software & Cloud > Software Licenses,5,license,94.55,USD,Germany
+ERP,ERP-00444,2025-10-23,Siemens GmbH,Mobile voice and data plan,Telecom > Telecom Services,2,month,40.91,EUR,Ireland
+ERP,ERP-00445,2025-06-21,GFP Logistics,Cloud compute usage,Software & Cloud > Cloud Services,2,hour,4.42,EUR,Ireland
+ERP,ERP-00446,2025-05-24,Bluebird Facilities Group,Process improvement consultant,Professional Services > Consulting,3,day,1056.77,EUR,United States
+ERP,ERP-00447,2025-07-23,Global Frt. Ptnrs,Cloud compute usage,Software & Cloud > Cloud Services,10,hour,3.64,GBP,United States
+ERP,ERP-00448,2025-12-19,Siemens AG,Stretch wrap roll clear,Logistics > Packaging,1,roll,18.13,EUR,Netherlands
+ERP,ERP-00449,2025-06-01,Global Freight Partners,Cloud storage monthly subscription,Software & Cloud > Cloud Services,1,month,310.61,USD,Ireland
+ERP,ERP-00450,2025-10-16,Pinnacle Safety Equipment,Monitor 27 inch QHD,,1,each,237.23,USD,Germany
+ERP,ERP-00451,2025-08-12,Pinnacle Safety Equipment,Pallet freight delivery,,2,shipment,181.44,EUR,Ireland
+ERP,ERP-00452,2025-09-22,Redwood Telecom Services,Data analytics consultant,Professional Services > Consulting,2,day,1353.79,USD,Netherlands
+ERP,ERP-00453,2025-01-26,Summit Vehicle Leasing,USB-C headset,IT Hardware > Peripherals,2,each,71.76,EUR,UK
+ERP,ERP-00454,2025-07-11,Harbor Scientific Supply,Data analytics consultant,Professional Services > Consulting,3,day,1264.65,USD,United States
+ERP,ERP-00455,2025-02-03,Cedar Consulting Group,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.33,USD,Germany
+ERP,ERP-00456,2025-08-26,Global Freight Partners,A4 copy paper case 5 reams,Office & MRO > Office Supplies,3,case,29.16,USD,United States
+ERP,ERP-00457,2025-05-19,Pinnacle Safety Equipment,Cloud storage monthly subscription,Software & Cloud > Cloud Services,5,month,301.28,EUR,UK
+ERP,ERP-00458,2025-03-27,Summit Vehicle Leasing,Black toner cartridge,Office & MRO > Office Supplies,2,each,55.01,GBP,UK
+ERP,ERP-00459,2025-05-15,Pinnacle Safety Equipment,Laptop dock USB-C,IT Hardware > Laptops,1,each,167.28,EUR,France
+ERP,ERP-00460,2025-12-05,Global Freight Partners,PDF editor annual license,Software & Cloud > Software Licenses,1,license,72.29,GBP,United States
+ERP,ERP-00461,2025-10-26,Cedar Consulting Group,Electric van lease monthly,Fleet > Vehicle Leasing,10,month,619.1,GBP,UK
+ERP,ERP-00462,2025-04-08,Harbor Scientific Supply,Office cleaning monthly service,Facilities & Energy > Facilities Services,1,month,1226.84,USD,United States
+ERP,ERP-00463,2025-07-30,Acme Industrial Supplies,Whiteboard marker pack 12,Office & MRO > Office Supplies,1,pack,12.78,EUR,Netherlands
+ERP,ERP-00464,2025-10-13,Harbor Scientific Supply,Cloud storage monthly subscription,Software & Cloud > Cloud Services,2,month,304.89,USD,United States
+ERP,ERP-00465,2025-10-28,Meridian Energy Services,USB-C adapter multiport,IT Hardware > Peripherals,2,each,29.61,GBP,Netherlands
+ERP,ERP-00466,2025-02-14,Global Freight Partners,USB-C adapter multiport,IT Hardware > Peripherals,1,each,39.35,USD,Netherlands
+ERP,ERP-00467,2025-04-17,Meridian Energy Services,Industrial air filter medium,Office & MRO > Maintenance Supplies,2,each,40.11,EUR,Germany
+ERP,ERP-00468,2025-10-14,Meridian Energy Services,Electricity supply usage,Facilities & Energy > Energy,1,MWh,122.59,EUR,Ireland
+ERP,ERP-00469,2025-07-23,Siemens AG,Corrugated shipping box medium,Logistics > Packaging,10,box,1.09,GBP,UK
+ERP,ERP-00470,2025-08-17,Meridian Energy Services,Laptop dock USB-C,IT Hardware > Laptops,5,each,167.64,USD,Ireland
+ERP,ERP-00471,2025-01-29,Redwood Telecom Services,Laptop dock USB-C,IT Hardware > Laptops,5,each,176.04,USD,Ireland
+ERP,ERP-00472,2025-08-13,ORCHARD,Process improvement consultant,Professional Services > Consulting,1,day,1046.09,EUR,France
+ERP,ERP-00473,2025-11-14,Orchard Maintenance Co,Stretch wrap roll clear,Logistics > Packaging,3,roll,17.33,EUR,Germany
+ERP,ERP-00474,2025-11-13,Harbor Sci.,Business broadband connection,Telecom > Telecom Services,5,month,83.52,EUR,Ireland
+ERP,ERP-00475,2025-12-04,Summit Vehicle Leasing,Corrugated shipping box medium,Logistics > Packaging,3,box,1.08,GBP,UK
+ERP,ERP-00476,2025-01-31,Acme Industrial Supplies,Pallet freight delivery,Logistics > Freight Services,5,shipment,153.74,GBP,Germany
+ERP,ERP-00477,2025-08-21,Orchard Maintenance Co,Business broadband connection,Telecom > Telecom Services,1,month,83.26,USD,Germany
+ERP,ERP-00478,2025-05-28,Harbor Scientific Supply,Compact vehicle lease monthly,Fleet > Vehicle Leasing,1,month,441.25,EUR,Germany
+ERP,ERP-00479,2025-11-17,Apex Packaging Europe,Pallet freight delivery,Logistics > Freight Services,3,shipment,146.07,GBP,UK
+ERP,ERP-00480,2025-01-25,Meridian Energy Services,Office cleaning monthly service,Facilities & Energy > Facilities Services,5,month,1096.64,EUR,United States
+ERP,ERP-00481,2025-09-24,Northstar Office Products,USB-C adapter multiport,IT Hardware > Peripherals,1,each,35.39,EUR,UK
+ERP,ERP-00482,2025-07-05,Summit Vehicle Leasing,Data analytics consultant,Professional Services > Consulting,10,day,1062.7,GBP,United States
+ERP,ERP-00483,2025-03-27,Vertex Technology Ltd,Business laptop 14 inch,IT Hardware > Laptops,10,each,812.05,EUR,France
+ERP,ERP-00484,2025-10-18,Harbor Scientific Supply,Stretch wrap roll clear,Logistics > Packaging,10,roll,17.21,EUR,UK
+ERP,ERP-00485,2025-01-16,Siemens AG,Process improvement consultant,Professional Services > Consulting,10,day,891.69,GBP,UK
+ERP,ERP-00486,2025-03-30,Apex Pkg Europe,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,5,box,16.31,GBP,United States
+ERP,ERP-00487,2025-11-04,Cedar Consulting Group,Protective safety glasses,Safety & Lab > Personal Protective Equipment,1,each,11.47,EUR,Germany
+ERP,ERP-00488,2025-12-03,Apex Packaging Europe,Monitor 27 inch QHD,IT Hardware > Displays,10,each,189.23,GBP,France
+ERP,ERP-00489,2025-11-20,APEX Pack.,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,31.89,USD,France
+ERP,ERP-00490,2025-12-31,Redwood Telecom Services,Stretch wrap roll clear,Logistics > Packaging,2,roll,15.46,GBP,Netherlands
+ERP,ERP-00491,2025-07-12,Redwood Telecom Services,Cloud compute usage,Software & Cloud > Cloud Services,1,hour,4.81,USD,France
+ERP,ERP-00492,2025-10-08,Harbor Scientific Supply,Process improvement consultant,Professional Services > Consulting,10,day,932.56,GBP,United States
+ERP,ERP-00493,2025-10-28,Global Freight Partners,Mobile voice and data plan,Telecom > Telecom Services,1,month,46.44,USD,France
+ERP,ERP-00494,2025-08-19,Meridian Energy Services,HVAC preventive maintenance visit,Facilities & Energy > Facilities Services,5,visit,402.35,USD,Ireland
+ERP,ERP-00495,2025-05-19,Global Freight Partners,Office cleaning monthly service,Facilities & Energy > Facilities Services,10,month,1114.2,EUR,Ireland
+ERP,ERP-00496,2025-08-06,Global Freight Partners,Industrial air filter medium,Office & MRO > Maintenance Supplies,3,each,32.44,GBP,Netherlands
+ERP,ERP-00497,2025-10-25,Apex Packaging,Office cleaning monthly service,Facilities & Energy > Facilities Services,1,month,1274.38,USD,France
+ERP,ERP-00498,2025-11-25,Global Freight Partners,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,1,box,13.82,GBP,Ireland
+ERP,ERP-00499,2025-06-05,Apex Packaging Europe,Cloud compute usage,Software & Cloud > Cloud Services,1,hour,4.56,EUR,Netherlands
+ERP,ERP-00500,2025-08-31,Vertex Technology Ltd,Cloud compute usage,Software & Cloud > Cloud Services,2,hour,3.7,GBP,France
+ERP,ERP-00001,2025-03-20,Siemens AG,A4 copy paper case 5 reams,Office & MRO > Office Supplies,5,case,30.03,USD,Germany
+ERP,ERP-00002,2025-07-29,Summit Vehicle Leasing,A4 copy paper case 5 reams,Office & MRO > Office Supplies,1,case,25.02,GBP,United States
+ERP,ERP-00003,2025-08-19,Vertex Technology Ltd,Nitrile safety gloves box,Office & MRO > Maintenance Supplies,10,box,16.24,EUR,France
+ERP,ERP-00004,2025-08-25,Pinnacle Safety Equipment,Laboratory nitrile gloves box,Safety & Lab > Laboratory Supplies,1,box,20.91,USD,United States
+ERP,ERP-00005,2025-02-04,Bluebird Facilities Group,Monitor 27 inch QHD,IT Hardware > Displays,1,each,193.56,GBP,UK
+ERP,ERP-00006,2025-04-13,Acme Industrial Supplies,Business broadband connection,Telecom > Telecom Services,1,month,71.78,GBP,UK
+ERP,ERP-00007,2025-02-24,Summit Vehicle Leasing,Cloud compute usage,,1,hour,4.28,EUR,UK
+ERP,ERP-00008,2025-02-20,Orchard Maintenance Co,Office cleaning monthly service,Facilities & Energy > Facilities Services,5,month,935.0,GBP,Germany
+ERP,ERP-00009,2025-02-07,Bluebird Facilities Group,Mobile voice and data plan,Telecom > Telecom Services,3,month,44.89,USD,France
+ERP,ERP-00010,2025-11-24,Vertex Technology Ltd,Laptop dock USB-C,IT Hardware > Laptops,5,each,142.34,GBP,Germany

@@ -1,6 +1,6 @@
 # Spend Harmonizer
 
-This is a small, interview-friendly procurement spend harmonization demo built on synthetic data. It shows how fragmented ERP, corporate card, and manual tracker data can be cleaned, standardized, and reviewed for savings opportunities without exposing real procurement data.
+This is a small, procurement spend harmonization demo built on synthetic data. It shows how fragmented ERP, corporate card, and manual tracker data can be cleaned, standardized, and reviewed for savings opportunities without exposing real procurement data.
 
 ## What this project does
 
